@@ -58,13 +58,19 @@ Zhaohan Xi, **Tianyu Du**, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xush
 
 # 📝 Journal Publications 
 
-- [DetectSec: Evaluating the Robustness of Object Detection Models to Adversarial Attacks](), **Tianyu Du**, Shouling Ji, Bo Wang, Sirui He, Jinfeng Li, Bo Li, Tao Wei, Yunhan Jia, Raheem Beyah, and Ting Wang, **International Journal of Intelligent Systems, 2022**. [IF=8.993]
-- [**TDSC 2022**] [Your labels are selling you out: Relation leaks in vertical federated learning](), Pengyu Qiu, Xuhong Zhang, Shouling Ji, **Tianyu Du**, Yuwen Pu, Jun Zhou, Ting Wang, **IEEE Transactions on Dependable and Secure Computing, 2022**. [CCF-A]
-- [FineFool: A Novel DNN Object Contour Attack on Image Recognition Based on the Attention Perturbation Adversarial Technique](), Jinyin Chen, Haibin Zheng, Hui Xiong, Ruoxi Chen, **Tianyu Du**, Zhen Hong, Shouling Ji, **Computers \& Security**, 2021(9):102220. [CCF-B]
-- [Robustness Certification Research on Deep Learning Models: A Survey](), Shouling Ji, **Tianyu Du**, Shuiguang Deng, Jie Shi, Min Yang, Bo Li, Chinese Journal of Computers, 2022, 45(1): 190-206.
-- [Security and Privacy of Machine Learning Models: A Survey](), Shouling Ji, **Tianyu Du**, Jinfeng Li, Chao Shen, and Bo Li, Journal of Software, 2021, 32(1): 41-67. 
-- [Survey on Techniques, Applications and Security of Machine Learning Interpretability](), Shouling Ji, Jinfeng Li, **Tianyu Du**, and Bo Li, Journal of Computer Research and Development, 2019, 56(10): 2071.
-- [Spreading Social Influence with Both Positive and Negative Opinions in Online Networks](), Jing Selena He, Meng Han, Shouling Ji, **Tianyu Du**, and Zhao Li, Big Data Mining and Analytics, 2019, 2(2): 100-117.
+- [DetectSec: Evaluating the Robustness of Object Detection Models to Adversarial Attacks](https://onlinelibrary.wiley.com/doi/pdf/10.1002/int.22851), **Tianyu Du**, Shouling Ji, Bo Wang, Sirui He, Jinfeng Li, Bo Li, Tao Wei, Yunhan Jia, Raheem Beyah, and Ting Wang, **International Journal of Intelligent Systems, 2022**. [IF=8.993]
+- [**TDSC 2022**] [Your labels are selling you out: Relation leaks in vertical federated learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9899694), Pengyu Qiu, Xuhong Zhang, Shouling Ji, **Tianyu Du**, Yuwen Pu, Jun Zhou, Ting Wang, **IEEE Transactions on Dependable and Secure Computing, 2022**. [CCF-A]
+- [FineFool: A Novel DNN Object Contour Attack on Image Recognition Based on the Attention Perturbation Adversarial Technique](https://www.sciencedirect.com/science/article/pii/S0167404821000444), Jinyin Chen, Haibin Zheng, Hui Xiong, Ruoxi Chen, **Tianyu Du**, Zhen Hong, Shouling Ji, **Computers & Security**, 2021(9):102220. [CCF-B]
+- [Robustness Certification Research on Deep Learning Models: A Survey](http://159.226.43.17/online/bfpub/jsl-2021128163639.pdf), Shouling Ji, **Tianyu Du**, Shuiguang Deng, Jie Shi, Min Yang, Bo Li, Chinese Journal of Computers, 2022, 45(1): 190-206.
+- [Security and Privacy of Machine Learning Models: A Survey](https://www.jos.org.cn/jos/article/pdf/6131), Shouling Ji, **Tianyu Du**, Jinfeng Li, Chao Shen, and Bo Li, Journal of Software, 2021, 32(1): 41-67. 
+- [Survey on Techniques, Applications and Security of Machine Learning Interpretability](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2019.20190540), Shouling Ji, Jinfeng Li, **Tianyu Du**, and Bo Li, Journal of Computer Research and Development, 2019, 56(10): 2071.
+- [Spreading Social Influence with Both Positive and Negative Opinions in Online Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8665728), Jing Selena He, Meng Han, Shouling Ji, **Tianyu Du**, and Zhao Li, Big Data Mining and Analytics, 2019, 2(2): 100-117.
+
+# 📝 arXiv Publications 
+
+- [RNN-Guard: Certified Robustness Against Multi-frame Attacks for Recurrent Neural Networks](https://arxiv.org/pdf/2304.07980.pdf), Yunruo Zhang, **Tianyu Du**, Shouling Ji, Peng Tang, Shanqing Guo.
+- [Demystifying Self-supervised Trojan Attacks](https://arxiv.org/pdf/2210.07346.pdf), Changjiang Li, Ren Pang, Zhaohan Xi, **Tianyu Du**, Shouling Ji, Yuan Yao, Ting Wang.
+- [Reasoning over Multi-view Knowledge Graphs](https://arxiv.org/abs/2209.13702), Zhaohan Xi, Ren Pang, Changjiang Li, **Tianyu Du**, Shouling Ji, Fenglong Ma, Ting Wang.
 
 # 🎖 Honors and Awards
 - *2019.12* Our paper "Invisible poisoning: Highly stealthy targeted poisoning attack" won the Best Paper Award of Inscrypt 2019.
