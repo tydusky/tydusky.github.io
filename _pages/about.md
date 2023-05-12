@@ -40,7 +40,7 @@ Zhaohan Xi, **Tianyu Du**, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xush
 </div>
 </div>
 
-- [On the Security Risks of Knowledge Graph Reasoning](https://arxiv.org/pdf/2305.02383.pdf), Zhaohan Xi, **Tianyu Du**, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xusheng Xiao, Fenglong Ma, Ting Wang, **USENIX Security 2023**.
+- ``USENIX Security 2023`` [On the Security Risks of Knowledge Graph Reasoning](https://arxiv.org/pdf/2305.02383.pdf), Zhaohan Xi, **Tianyu Du**, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xusheng Xiao, Fenglong Ma, Ting Wang, **USENIX Security 2023**.
 - [NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9793943), Haibin Zheng, Zhiqing Chen, **Tianyu Du**, Xuhong Zhang, Yao Cheng, Shouling Ji, Jingyi Wang, Yue Yu, Jinyin Chen, **ICSE 2022**.
 - [Cert-RNN: Towards Certifying the Robustness of Recurrent Neural Networks](https://dl.acm.org/doi/10.1145/3460120.3484538), **Tianyu Du**, Shouling Ji, Lujia Shen, Yao Zhang, Jinfeng Li, Jie Shi, Chengfang Fang, Raheem Beyah,Ting Wang, **CCS 2021**.
 - [Enhancing Model Robustness by Incorporating Adversarial Knowledge into Semantic Representation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9414793), Jinfeng Li, **Tianyu Du**, Xiangyu Liu, Rong Zhang, Hui Xue, Shouling Ji, **ICASSP 2021**.
@@ -50,11 +50,11 @@ Zhaohan Xi, **Tianyu Du**, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xush
 - [Invisible Poisoning: Highly Stealthy Targeted Poisoning Attack](), Jinyin Chen, Haibin Zheng, Mengmeng Su, **Tianyu Du**, Changting Lin, and Shouling Ji, **Inscrypt 2019** (Best Paper Award).
 - [Symmetric Frame Cracking: a Powerful Dynamic Textual CAPTCHA Cracking Policy], Yueyao Chen, Qianjun Liu, **Tianyu Du**, Yuan Chen, and Shouling Ji, **Inscrypt 2019**.
 - [Neural Network Model for Classifying the Economic Recession and Construction of Financial Stress Index](), Lujia Shen, **Tianyu Du**, and Shouling Ji, **ICPCSEE 2019**.
-- [Quantifying Graph Anonymity, Utility, and De-anonymity](), Shouling Ji, **Tianyu Du**, Zhen Hong, Ting Wang, and Raheem Beyah, **INFOCOM 2018**.
-- [Online E-Commerce Fraud: A Large-scale Detection and Analysis](), Haiqin Weng, Zhao Li, Shouling Ji, Chen Chu, Haifeng Lu, **Tianyu Du**, and Qinming He, **ICDE 2018**.
+- [Quantifying Graph Anonymity, Utility, and De-anonymity](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8486356), Shouling Ji, **Tianyu Du**, Zhen Hong, Ting Wang, and Raheem Beyah, **INFOCOM 2018**.
+- [Online E-Commerce Fraud: A Large-scale Detection and Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8509383), Haiqin Weng, Zhao Li, Shouling Ji, Chen Chu, Haifeng Lu, **Tianyu Du**, and Qinming He, **ICDE 2018**.
 - [You Are What You Search: Attribute Inference Attacks Through Web Search Queries], **Tianyu Du**, Tao Tao, Bijing Liu, Xueqi Jin, Jinfeng Li, and Shouling Ji, **SICBS 2018**.
-- [Static taint analysis method for intent injection vulnerability in android applications](), Bin Xiong, Guangli Xiang, **Tianyu Du**, Jing Selena He, and Shouling Ji, **CSS 2017**.
-- [Influence Spread in Social Networks with both Positive and Negative Influences](), Jing Selena He, Ying Xie, **Tianyu Du**, Shouling Ji, and Zhao Li, **CSoNet 2017**.
+- [Static taint analysis method for intent injection vulnerability in android applications](https://nesa.zju.edu.cn/download/Static%20Taint%20Analysis%20Method%20for%20Intent%20Injection%20Vulnerability%20in%20Android%20Applications.pdf), Bin Xiong, Guangli Xiang, **Tianyu Du**, Jing Selena He, and Shouling Ji, **CSS 2017**.
+- [Influence Spread in Social Networks with both Positive and Negative Influences](https://nesa.zju.edu.cn/download/Influence%20Spread%20in%20Social%20Networks%20with%20Both%20Positive%20and%20Negative%20Influences.pdf), Jing Selena He, Ying Xie, **Tianyu Du**, Shouling Ji, and Zhao Li, **COCOON 2017**.
 
 # 📝 Journal Publications 
 
