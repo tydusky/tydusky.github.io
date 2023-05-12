@@ -66,6 +66,9 @@ I am a postdoctoral scholar at Penn State University and I work with Prof. [Ting
 - [Survey on Techniques, Applications and Security of Machine Learning Interpretability](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2019.20190540), Shouling Ji, Jinfeng Li, **Tianyu Du**, and Bo Li, Journal of Computer Research and Development, 2019, 56(10): 2071.
 - [Spreading Social Influence with Both Positive and Negative Opinions in Online Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8665728), Jing Selena He, Meng Han, Shouling Ji, **Tianyu Du**, and Zhao Li, Big Data Mining and Analytics, 2019, 2(2): 100-117.
 
+# 📝 Poster 
+- [SirenAttack: Generating Adversarial Audio for End-to-End Acoustic Systems](https://nesa.zju.edu.cn/download/SirenAttack%20Generating%20Adversarial%20Audio%20for%20End-to-End%20Acoustic%20Systems.pdf), **Tianyu Du**, Shouling Ji, Jinfeng Li, Qinchen Gu, Ting Wang and Raheem Beyah, **NDSS 2019 Poster Session**. 
+
 # 📝 arXiv Publications 
 
 - [RNN-Guard: Certified Robustness Against Multi-frame Attacks for Recurrent Neural Networks](https://arxiv.org/pdf/2304.07980.pdf), Yunruo Zhang, **Tianyu Du**, Shouling Ji, Peng Tang, Shanqing Guo.
@@ -73,7 +76,9 @@ I am a postdoctoral scholar at Penn State University and I work with Prof. [Ting
 - [Reasoning over Multi-view Knowledge Graphs](https://arxiv.org/abs/2209.13702), Zhaohan Xi, Ren Pang, Changjiang Li, **Tianyu Du**, Shouling Ji, Fenglong Ma, Ting Wang.
 
 # 🎖 Honors and Awards
-- *2019.12* Our paper "Invisible poisoning: Highly stealthy targeted poisoning attack" won the Best Paper Award of Inscrypt 2019.
+- *2019.12* Inscrypt 2019 Best Paper Award
+- *2018.10* Guanglianda Second Prize Scholarship
+- *2014.10* National Scholarship (Undergraduate) (Top 1%)
 
 # 📖 Educations
 - *2017.09 - 2022.06*, Ph.D., Cyber Security, Zhejiang University, Hangzhou. 
