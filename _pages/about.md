@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes adversarial machine learning and the security of language models. I have published more than 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a postdoctoral scholar at Penn State University and I work with Prof. [Ting Wang](https://alps-lab.github.io/). I obtained my PhD in Cyber Security from Zhejiang University in 2022 and my advisor is Prof. [Shouling Ji](https://nesa.zju.edu.cn/webpage/crew/jsl.html). My research interest includes adversarial machine learning and the security of language models.
 
 
 # 🔥 News
-- *2023.05*: &nbsp;🎉🎉 One paper was accepted by USENIX Security 2023. 
-- *2022.12*: &nbsp;🎉🎉 I was invited to serve as a PC member for ACL 2023.
+- *2023.05*: &nbsp; 🎉 One paper was accepted by USENIX Security 2023. 
+- *2023.01*: &nbsp; I was invited to serve as a PC member for ACL 2023.
+- *2022.08*: &nbsp; Join College of Information Sciences and Technology, Penn State University as a postdoctoral scholar.
+- *2022.05*: &nbsp; Successfully defense my Ph.D. thesis.
 
 # 📝 Publications 
 
@@ -35,7 +35,7 @@ My research interest includes adversarial machine learning and the security of l
 
 Zhaohan Xi, **Tianyu Du**, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xusheng Xiao, Fenglong Ma, Ting Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/HarrialX/security-risk-KG-reasoning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This work represents a systematic study of the security risks of knowledge graph reasoning (KGR).
 </div>
 </div>
@@ -43,8 +43,7 @@ Zhaohan Xi, **Tianyu Du**, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xush
 - [On the Security Risks of Knowledge Graph Reasoning](https://arxiv.org/pdf/2305.02383.pdf), Zhaohan Xi, **Tianyu Du**, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xusheng Xiao, Fenglong Ma, Ting Wang, **USENIX Security 2023**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.12* Our paper "Invisible poisoning: Highly stealthy targeted poisoning attack" won the Best Paper Award of Inscrypt 2019.
 
 # 📖 Educations
 - *2017.09 - 2022.06*, Ph.D., Cyber Security, Zhejiang University, Hangzhou. 
