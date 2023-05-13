@@ -95,26 +95,34 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 - [Survey on Techniques, Applications and Security of Machine Learning Interpretability](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2019.20190540), Shouling Ji, Jinfeng Li, **Tianyu Du**, and Bo Li, Journal of Computer Research and Development, 2019, 56(10): 2071.
 - [Spreading Social Influence with Both Positive and Negative Opinions in Online Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8665728), Jing Selena He, Meng Han, Shouling Ji, **Tianyu Du**, and Zhao Li, Big Data Mining and Analytics, 2019, 2(2): 100-117.
 
-# 📝 Poster 
+# 🧾 Poster 
 - [SirenAttack: Generating Adversarial Audio for End-to-End Acoustic Systems](https://nesa.zju.edu.cn/download/SirenAttack%20Generating%20Adversarial%20Audio%20for%20End-to-End%20Acoustic%20Systems.pdf), **Tianyu Du**, Shouling Ji, Jinfeng Li, Qinchen Gu, Ting Wang and Raheem Beyah, **NDSS 2019 Poster Session**. 
 
-# 📝 arXiv Publications 
+# 📖 arXiv Publications 
 
 - [RNN-Guard: Certified Robustness Against Multi-frame Attacks for Recurrent Neural Networks](https://arxiv.org/pdf/2304.07980.pdf), Yunruo Zhang, **Tianyu Du**, Shouling Ji, Peng Tang, Shanqing Guo.
 - [Demystifying Self-supervised Trojan Attacks](https://arxiv.org/pdf/2210.07346.pdf), Changjiang Li, Ren Pang, Zhaohan Xi, **Tianyu Du**, Shouling Ji, Yuan Yao, Ting Wang.
 - [Reasoning over Multi-view Knowledge Graphs](https://arxiv.org/abs/2209.13702), Zhaohan Xi, Ren Pang, Changjiang Li, **Tianyu Du**, Shouling Ji, Fenglong Ma, Ting Wang.
 
-# 🎖 Honors and Awards
-- *2019.12* Inscrypt 2019 Best Paper Award
-- *2018.10* Guanglianda Second Prize Scholarship
-- *2014.10* National Scholarship (Undergraduate) (Top 1%)
+# 📓 Patents 
+- CN, "A method and system for generating adversarial audio under white-box settings"
 
-# 📖 Educations
+# 💻 Experience
+- *2022.08 - 2023.08*, Postdoctoral Scholar, Penn State University.
+- *2017.03 - 2018.03*, Research Scientist Intern, Alibaba, Hangzhou.
+
+# 🎓 Education
 - *2017.09 - 2022.06*, Ph.D., Cyber Security, Zhejiang University, Hangzhou. 
 - *2013.09 - 2017.06*, B.E., Communication Engineering, Xiamen University, Xiamen. 
+
+# 👩‍🏫 Professional Activities
+- **Program Committee**: [ACL 2023](https://2023.aclweb.org/).
+- **Journal Reviewer**: [Cybersecurity](https://cybersecurity.springeropen.com/about).
 
 # 💬 Invited Talks
 - *2021.07*, Adversarial attack and defense in the natural language procesing domain, G.O.S.S.I.P Summer School.
 
-# 💻 Internships
-- *2017.03 - 2018.03*, Alibaba, Hangzhou.
+# 🎖 Honors and Awards
+- *2019.12* Inscrypt 2019 Best Paper Award
+- *2018.10* Guanglianda Second Prize Scholarship
+- *2014.10* National Scholarship (Undergraduate) (Top 1%)
