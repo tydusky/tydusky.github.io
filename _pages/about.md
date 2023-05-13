@@ -41,6 +41,30 @@ I am a postdoctoral scholar at Penn State University and I work with Prof. [Ting
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX Security 2021</div><img src='images/textshield.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[TextShield: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation](https://www.usenix.org/system/files/sec20-li-jinfeng.pdf)
+
+Jinfeng Li\*, **Tianyu Du\***, Shouling Ji, Rong Zhang, Quan Lu, Min Yang, and Ting Wang (\*Co-first authors)
+
+<strong><span class='show_paper_citations' data='kBqTzrwAAAAJ:LkGwnXOMwfcC'></span></strong>
+- This work proposes TextShield, a new adversarial defense framework specifically designed for Chinese deep learning-based text classification models.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2019</div><img src='images/textbugger.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[TextBugger: Generating Adversarial Text Against Real-world Applications](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03A-5_Li_paper.pdf)
+Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
+
+<strong><span class='show_paper_citations' data='kBqTzrwAAAAJ:ufrVoPGSRksC'></span></strong>
+- This work proposes TextBugger, a general attack framework for generating adversarial texts.
+</div>
+</div>
+
 - ``USENIX Security 2023`` [On the Security Risks of Knowledge Graph Reasoning](https://arxiv.org/pdf/2305.02383.pdf), Zhaohan Xi, **Tianyu Du**, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xusheng Xiao, Fenglong Ma, Ting Wang, **USENIX Security 2023**. [CCF-A]
 - ``ICSE 2022`` [NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9793943), Haibin Zheng, Zhiqing Chen, **Tianyu Du**, Xuhong Zhang, Yao Cheng, Shouling Ji, Jingyi Wang, Yue Yu, Jinyin Chen, **ICSE 2022**. [CCF-A]
 - ``CCS 2021`` [Cert-RNN: Towards Certifying the Robustness of Recurrent Neural Networks](https://dl.acm.org/doi/10.1145/3460120.3484538), **Tianyu Du**, Shouling Ji, Lujia Shen, Yao Zhang, Jinfeng Li, Jie Shi, Chengfang Fang, Raheem Beyah, Ting Wang, **CCS 2021**. [CCF-A]
