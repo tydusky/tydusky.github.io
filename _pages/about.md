@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral scholar at Penn State University and I work with Prof. [Ting Wang](https://alps-lab.github.io/). I obtained my PhD in Cyber Security from Zhejiang University in 2022 and my advisor is Prof. [Shouling Ji](https://nesa.zju.edu.cn/webpage/crew/jsl.html). My research interest includes adversarial machine learning and the security of language models. I have published 20+ papers at the top international conferences and journals such as USENIX Security, CCS, NDSS, ICSE, TDSC. 
+I am now a postdoctoral scholar at the Penn State University working under Prof. [Ting Wang](https://alps-lab.github.io/). 
+
+I obtained my Ph.D. degree in the College of Computer Science and Technology at the Zhejiang University in 2022, supervised by Prof. [Shouling Ji](https://nesa.zju.edu.cn/webpage/crew/jsl.html). During Ph.D., I have spent wonderful times in collaborating with academics at the university (e.g., Prof. Bo Li at UIUC, and Prof Ting Wang at PSU), and researchers in the industrial community (Dr. Tao Wei at Ant Financial, Dr. Jie Shi at Huawei Singapore). Before that, I obtained my B.E. degree in the Communication Engineering at the College of Information Science and Techonology, Xiamen University.
+
+My current research interests includes adversarial machine learning, robustness of deep learning systems, and the security of large language models. I have published 20+ papers at the top international conferences and journals such as USENIX Security, CCS, NDSS, ICSE, TDSC. If you are interested in working with me, please feel free to contact me through the email.
 
 
 # 🔥 News
