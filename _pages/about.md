@@ -21,7 +21,8 @@ I am a postdoctoral scholar at Penn State University and I work with Prof. [Ting
 
 
 # 🔥 News
-- *2023.05*: &nbsp; 🎉 One paper was accepted by USENIX Security 2023. 
+- *2023.05*: &nbsp; 🎉 One paper was accepted by [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23). 
+- *2023.04*: &nbsp; I was invited to serve as a reviewer for [Cybersecurity](https://cybersecurity.springeropen.com/about).
 - *2023.01*: &nbsp; I was invited to serve as a PC member for ACL 2023.
 - *2022.08*: &nbsp; Join College of Information Sciences and Technology, Penn State University as a postdoctoral scholar.
 - *2022.05*: &nbsp; Successfully defense my Ph.D. thesis.
