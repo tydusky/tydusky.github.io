@@ -29,7 +29,7 @@ My current research interests includes adversarial machine learning, robustness 
 - *2023.04*: &nbsp; I was invited to serve as a reviewer for [Cybersecurity](https://cybersecurity.springeropen.com/about).
 - *2023.01*: &nbsp; I was invited to serve as a PC member for ACL 2023.
 - *2022.08*: &nbsp; Join College of Information Sciences and Technology, Penn State University as a postdoctoral scholar.
-- *2022.05*: &nbsp; Successfully defense my Ph.D. thesis.
+<!-- - *2022.05*: &nbsp; Successfully defense my Ph.D. thesis. -->
 
 # 📝 Conference Publications 
 
@@ -115,12 +115,12 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 - *2017.09 - 2022.06*, Ph.D., Cyber Security, Zhejiang University, Hangzhou. 
 - *2013.09 - 2017.06*, B.E., Communication Engineering, Xiamen University, Xiamen. 
 
-# 👩‍🏫 Professional Activities
+# 👩‍🏫 Service
 - **Program Committee**: [ACL 2023](https://2023.aclweb.org/).
 - **Journal Reviewer**: [Cybersecurity](https://cybersecurity.springeropen.com/about).
 
 # 💬 Invited Talks
-- *2021.07*, Adversarial attack and defense in the natural language procesing domain, G.O.S.S.I.P Summer School.
+- *2021.07*, Adversarial attack and defense in the natural language procesing domain, G.O.S.S.I.P Summer School, Shanghai.
 
 # 🎖 Honors and Awards
 - *2019.12* Inscrypt 2019 Best Paper Award
