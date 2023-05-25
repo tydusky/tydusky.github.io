@@ -126,5 +126,3 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 - *2019.12* Inscrypt 2019 Best Paper Award
 - *2018.10* Guanglianda Second Prize Scholarship
 - *2014.10* National Scholarship (Undergraduate) (Top 1%)
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pUT9z9jqsrEyeVkKLn05fw0Z7dbgjRA7Ii7n0aSYhCs&cl=ffffff&w=a"></script>
