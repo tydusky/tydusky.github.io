@@ -25,6 +25,7 @@ My current research interests includes adversarial machine learning, robustness 
 
 
 # 🔥 News
+- *2023.06*: &nbsp; I was invited to serve as a reviewer for EMNLP 2023.
 - *2023.05*: &nbsp; 🎉 One paper was accepted by [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23). 
 - *2023.04*: &nbsp; I was invited to serve as a reviewer for [Cybersecurity](https://cybersecurity.springeropen.com/about).
 - *2023.01*: &nbsp; I was invited to serve as a PC member for ACL 2023.
@@ -116,7 +117,7 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 - *2013.09 - 2017.06*, B.E., Communication Engineering, Xiamen University, Xiamen. 
 
 # 👩‍🏫 Service
-- **Program Committee**: [ACL 2023](https://2023.aclweb.org/).
+- **Conference Program Committee or Reviewer**: [EMNLP 2023](https://2023.emnlp.org/), [ACL 2023](https://2023.aclweb.org/).
 - **Journal Reviewer**: [Cybersecurity](https://cybersecurity.springeropen.com/about).
 
 # 💬 Invited Talks
