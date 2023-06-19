@@ -23,10 +23,11 @@ I obtained my Ph.D. degree in the College of Computer Science and Technology at 
 
 My current research interests includes adversarial machine learning, robustness of deep learning systems, and the security of large language models. I have published 20+ papers at the top international conferences and journals such as USENIX Security, CCS, NDSS, ICSE, TDSC. 
 
-*Openings: I am looking for motivated master students and interns to join my research group. Please drop me an email if you are interested in working with me!*
+*<span style="color:red">(Openings)</span>: I am looking for motivated master students and interns to join my research group. Please drop me an email if you are interested in working with me!*
 
 
 # 🔥 News
+- *2023.06*: &nbsp; I will join the School of Software Technology at Zhejiang University as an Assistant Professor in July 2023!
 - *2023.06*: &nbsp; I was invited to serve as a reviewer for EMNLP 2023.
 - *2023.05*: &nbsp; 🎉 One paper was accepted by [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23). 
 - *2023.04*: &nbsp; I was invited to serve as a reviewer for [Cybersecurity](https://cybersecurity.springeropen.com/about).
