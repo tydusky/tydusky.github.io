@@ -43,7 +43,7 @@ My current research interests includes adversarial machine learning, robustness 
 
 [Cert-RNN: Towards Certifying the Robustness of Recurrent Neural Networks](https://dl.acm.org/doi/10.1145/3460120.3484538)
 
-**Tianyu Du**, Shouling Ji, Lujia Shen, Yao Zhang, Jinfeng Li, Jie Shi, Chengfang Fang, Raheem Beyah, Ting Wang
+**Tianyu Du**, Shouling Ji, Lujia Shen, Yao Zhang, Jinfeng Li, Jie Shi, Chengfang Fang, Jianwei Yin, Raheem Beyah, Ting Wang
 
 <strong><span class='show_paper_citations' data='kBqTzrwAAAAJ:5nxA0vEk-isC'></span></strong>
 - This work proposes Cert-RNN, a general framework for certifying the robustness of RNNs. 
@@ -77,7 +77,7 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 - ``ICCV 2023`` [An Embarrassingly Simple Self-supervised Trojan Attack](https://arxiv.org/abs/2210.07346), Changjiang Li, Ren Pang, Zhaohan Xi, **Tianyu Du**, Shouling Ji, Ting Wang, Yuan Yao, **ICCV 2023**. [CCF-A]
 - ``USENIX Security 2023`` [On the Security Risks of Knowledge Graph Reasoning](https://arxiv.org/pdf/2305.02383.pdf), Zhaohan Xi, **Tianyu Du**, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xusheng Xiao, Fenglong Ma, Ting Wang, **USENIX Security 2023**. [CCF-A]
 - ``ICSE 2022`` [NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9793943), Haibin Zheng, Zhiqing Chen, **Tianyu Du**, Xuhong Zhang, Yao Cheng, Shouling Ji, Jingyi Wang, Yue Yu, Jinyin Chen, **ICSE 2022**. [CCF-A]
-- ``CCS 2021`` [Cert-RNN: Towards Certifying the Robustness of Recurrent Neural Networks](https://dl.acm.org/doi/10.1145/3460120.3484538), **Tianyu Du**, Shouling Ji, Lujia Shen, Yao Zhang, Jinfeng Li, Jie Shi, Chengfang Fang, Raheem Beyah, Ting Wang, **CCS 2021**. [CCF-A]
+- ``CCS 2021`` [Cert-RNN: Towards Certifying the Robustness of Recurrent Neural Networks](https://dl.acm.org/doi/10.1145/3460120.3484538), **Tianyu Du**, Shouling Ji, Lujia Shen, Yao Zhang, Jinfeng Li, Jie Shi, Chengfang Fang, Jianwei Yin, Raheem Beyah, Ting Wang, **CCS 2021**. [CCF-A]
 - ``ICASSP 2021`` [Enhancing Model Robustness by Incorporating Adversarial Knowledge into Semantic Representation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9414793), Jinfeng Li, **Tianyu Du**, Xiangyu Liu, Rong Zhang, Hui Xue, Shouling Ji, **ICASSP 2021**. [CCF-B]
 - ``AsiaCCS 2020`` [SirenAttack: Generating Adversarial Audio for End-to-End Acoustic Systems](https://par.nsf.gov/servlets/purl/10174631), **Tianyu Du**, Shouling Ji, Jinfeng Li, Qinchen Gu, Ting Wang and Raheem Beyah, **AsiaCCS 2020**. [CCF-C, Tier 2 in security domain]
 - ``USENIX Security 2020`` [TextShield: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation](https://www.usenix.org/system/files/sec20-li-jinfeng.pdf), Jinfeng Li\*, **Tianyu Du\***, Shouling Ji, Rong Zhang, Quan Lu, Min Yang, and Ting Wang, **USENIX Security 2020**, (\*Co-first authors). [CCF-A]
