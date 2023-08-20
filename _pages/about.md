@@ -107,7 +107,6 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 # 📖 arXiv Publications 
 
 - [RNN-Guard: Certified Robustness Against Multi-frame Attacks for Recurrent Neural Networks](https://arxiv.org/pdf/2304.07980.pdf), Yunruo Zhang, **Tianyu Du**, Shouling Ji, Peng Tang, Shanqing Guo.
-- [Demystifying Self-supervised Trojan Attacks](https://arxiv.org/pdf/2210.07346.pdf), Changjiang Li, Ren Pang, Zhaohan Xi, **Tianyu Du**, Shouling Ji, Yuan Yao, Ting Wang.
 - [Reasoning over Multi-view Knowledge Graphs](https://arxiv.org/abs/2209.13702), Zhaohan Xi, Ren Pang, Changjiang Li, **Tianyu Du**, Shouling Ji, Fenglong Ma, Ting Wang.
 
 # 📓 Patents 
