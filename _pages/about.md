@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a postdoctoral scholar at the Penn State University working under Prof. [Ting Wang](https://alps-lab.github.io/). 
+I am now an assistant professor at the School of Software Technology at Zhejiang University. Before that, I was a postdoctoral scholar at the Penn State University working under Prof. [Ting Wang](https://alps-lab.github.io/). 
 
 I obtained my Ph.D. degree in the College of Computer Science and Technology at the Zhejiang University in 2022, supervised by Prof. [Shouling Ji](https://nesa.zju.edu.cn/webpage/crew/jsl.html). During Ph.D., I have spent wonderful times in collaborating with academics at the university (e.g., Prof. [Bo Li](https://aisecure.github.io/) at UIUC, and Prof. [Ting Wang](https://alps-lab.github.io/) at PSU), and researchers in the industrial community (e.g., Dr. [Tao Wei](https://scholar.google.com/citations?user=Ao3wEckAAAAJ&hl=zh-CN) at Baidu USA (now Ant Financial), Dr. [Jie Shi](https://scholar.google.com/citations?user=GQJDlW8AAAAJ&hl=zh-CN) at Huawei Singapore Research Center). Before that, I obtained my B.E. degree in the Communication Engineering at the College of Information Science and Techonology, Xiamen University.
 
@@ -28,7 +28,7 @@ My current research interests includes adversarial machine learning, robustness 
 
 # 🔥 News
 - *2023.07*: &nbsp; 🎉 One paper was accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
-- *2023.06*: &nbsp; I will join the School of Software Technology at Zhejiang University as an Assistant Professor in July 2023!
+- *2023.06*: &nbsp; I will join the School of Software Technology at Zhejiang University as an Assistant Professor in Aug 2023!
 - *2023.06*: &nbsp; I was invited to serve as a reviewer for EMNLP 2023.
 - *2023.05*: &nbsp; 🎉 One paper was accepted by [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23). 
 - *2023.04*: &nbsp; I was invited to serve as a reviewer for [Cybersecurity](https://cybersecurity.springeropen.com/about).
