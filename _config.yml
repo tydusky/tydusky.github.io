@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianyu Du"
-description              : "Postdoc at Penn State University. Research interests include adversarial machine learning and security of LLMs."
+description              : "Assistant Professor at Zhejiang University. Research interests include adversarial machine learning and security of LLMs."
 repository               : "tydusky/tydusky.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianyu Du"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Penn State University"
-  location         : "Pennslyvania, United States"
+  bio              : "Zhejiang University"
+  location         : "Ningbo, Zhejiang"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=kBqTzrwAAAAJ"
