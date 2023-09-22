@@ -75,9 +75,9 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 </div>
 </div>
 
-- ``NeurIPS 2023`` Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks, **Tianyu Du**, Zhaohan Xi, Changjiang Li, Ren Pang, Shouling Ji, Jinghui Chen, Fenglong Ma, Ting Wang, **NeurIPS 2023**. [CCF-A]
-- ``NeurIPS 2023`` UniT: A Unified Look at Certified Robust Training against Text Adversarial Perturbation, Muchao Ye, Ziyi Yin, Tianrong Zhang, **Tianyu Du**, Jinghui Chen, Ting Wang, Fenglong Ma, **NeurIPS 2023**. [CCF-A]
-- ``NeurIPS 2023`` VLATTACK: Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models, Ziyi Yin, Muchao Ye, Tianrong Zhang, **Tianyu Du**, Jinguo Zhu, Han Liu, Jinghui Chen, Ting Wang, Fenglong Ma, **NeurIPS 2023**. [CCF-A]
+- ``NeurIPS 2023`` [Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks](https://openreview.net/pdf?id=GqXbfVmEPW), **Tianyu Du**, Zhaohan Xi, Changjiang Li, Ren Pang, Shouling Ji, Jinghui Chen, Fenglong Ma, Ting Wang, **NeurIPS 2023**. [CCF-A]
+- ``NeurIPS 2023`` [UniT: A Unified Look at Certified Robust Training against Text Adversarial Perturbation](https://openreview.net/pdf?id=oGxE2Nvlda), Muchao Ye, Ziyi Yin, Tianrong Zhang, **Tianyu Du**, Jinghui Chen, Ting Wang, Fenglong Ma, **NeurIPS 2023**. [CCF-A]
+- ``NeurIPS 2023`` [VLATTACK: Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models](https://openreview.net/pdf?id=qBAED3u1XZ), Ziyi Yin, Muchao Ye, Tianrong Zhang, **Tianyu Du**, Jinguo Zhu, Han Liu, Jinghui Chen, Ting Wang, Fenglong Ma, **NeurIPS 2023**. [CCF-A]
 - ``ICCV 2023`` [An Embarrassingly Simple Self-supervised Trojan Attack](https://arxiv.org/abs/2210.07346), Changjiang Li, Ren Pang, Zhaohan Xi, **Tianyu Du**, Shouling Ji, Ting Wang, Yuan Yao, **ICCV 2023**. [CCF-A]
 - ``USENIX Security 2023`` [On the Security Risks of Knowledge Graph Reasoning](https://arxiv.org/pdf/2305.02383.pdf), Zhaohan Xi, **Tianyu Du**, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xusheng Xiao, Fenglong Ma, Ting Wang, **USENIX Security 2023**. [CCF-A]
 - ``ICSE 2022`` [NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9793943), Haibin Zheng, Zhiqing Chen, **Tianyu Du**, Xuhong Zhang, Yao Cheng, Shouling Ji, Jingyi Wang, Yue Yu, Jinyin Chen, **ICSE 2022**. [CCF-A]
