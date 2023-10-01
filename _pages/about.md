@@ -93,7 +93,7 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 - ``ICDE 2018`` [Online E-Commerce Fraud: A Large-scale Detection and Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8509383), Haiqin Weng, Zhao Li, Shouling Ji, Chen Chu, Haifeng Lu, **Tianyu Du**, and Qinming He, **ICDE 2018**. [CCF-A]
 - ``SICBS 2018`` [You Are What You Search: Attribute Inference Attacks Through Web Search Queries](https://link.springer.com/chapter/10.1007/978-3-030-16946-6_27), **Tianyu Du**, Tao Tao, Bijing Liu, Xueqi Jin, Jinfeng Li, and Shouling Ji, **SICBS 2018**.
 - ``CSS 2017`` [Static taint analysis method for intent injection vulnerability in android applications](https://nesa.zju.edu.cn/download/Static%20Taint%20Analysis%20Method%20for%20Intent%20Injection%20Vulnerability%20in%20Android%20Applications.pdf), Bin Xiong, Guangli Xiang, **Tianyu Du**, Jing Selena He, and Shouling Ji, **CSS 2017**.
-- ``COCOON 2017`` [Influence Spread in Social Networks with both Positive and Negative Influences](https://nesa.zju.edu.cn/download/Influence%20Spread%20in%20Social%20Networks%20with%20Both%20Positive%20and%20Negative%20Influences.pdf), Jing Selena He, Ying Xie, **Tianyu Du**, Shouling Ji, and Zhao Li, **COCOON 2017**.
+- ``COCOON 2017`` [Influence Spread in Social Networks with both Positive and Negative Influences](https://nesa.zju.edu.cn/download/Influence%20Spread%20in%20Social%20Networks%20with%20Both%20Positive%20and%20Negative%20Influences.pdf), Jing Selena He, Ying Xie, **Tianyu Du**, Shouling Ji, and Zhao Li, **COCOON 2017**. [CCF-B]
 
 # 📝 Journal Publications 
 
