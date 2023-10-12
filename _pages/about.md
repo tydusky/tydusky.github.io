@@ -75,7 +75,7 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 </div>
 </div>
 
-- ``NeurIPS 2023`` [Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks](https://openreview.net/pdf?id=GqXbfVmEPW), **Tianyu Du**, Zhaohan Xi, Changjiang Li, Ren Pang, Shouling Ji, Jinghui Chen, Fenglong Ma, Ting Wang, **NeurIPS 2023**. [CCF-A]
+- ``NeurIPS 2023`` [Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks](https://openreview.net/pdf?id=GqXbfVmEPW), Zhaohan Xi\*, **Tianyu Du\***, Changjiang Li, Ren Pang, Shouling Ji, Jinghui Chen, Fenglong Ma, Ting Wang, **NeurIPS 2023**. [CCF-A] (\*Co-first authors)
 - ``NeurIPS 2023`` [UniT: A Unified Look at Certified Robust Training against Text Adversarial Perturbation](https://openreview.net/pdf?id=oGxE2Nvlda), Muchao Ye, Ziyi Yin, Tianrong Zhang, **Tianyu Du**, Jinghui Chen, Ting Wang, Fenglong Ma, **NeurIPS 2023**. [CCF-A]
 - ``NeurIPS 2023`` [VLATTACK: Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models](https://openreview.net/pdf?id=qBAED3u1XZ), Ziyi Yin, Muchao Ye, Tianrong Zhang, **Tianyu Du**, Jinguo Zhu, Han Liu, Jinghui Chen, Ting Wang, Fenglong Ma, **NeurIPS 2023**. [CCF-A]
 - ``ICCV 2023`` [An Embarrassingly Simple Self-supervised Trojan Attack](https://arxiv.org/abs/2210.07346), Changjiang Li, Ren Pang, Zhaohan Xi, **Tianyu Du**, Shouling Ji, Ting Wang, Yuan Yao, **ICCV 2023**. [CCF-A]
