@@ -23,7 +23,7 @@ I obtained my Ph.D. degree in the College of Computer Science and Technology at 
 
 My current research interests includes adversarial machine learning, robustness of deep learning systems, and the security of large language models. I have published 20+ papers at the top international conferences and journals such as USENIX Security, CCS, NDSS, ICCV, ICSE, TDSC, etc. 
 
-*<span style="color:red">Openings:</span> I am looking for motivated master students and interns to join my research group. Please drop me an email if you are interested in working with me!*
+*<span style="color:red">Openings:</span> I am looking for motivated research interns to join my research group. Please drop me an email if you are interested in working with me!*
 
 
 # 🔥 News
