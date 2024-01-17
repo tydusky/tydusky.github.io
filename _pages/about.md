@@ -27,6 +27,7 @@ My current research interests includes adversarial machine learning, robustness 
 
 
 # 🔥 News
+- *2024.01*: &nbsp; 🎉 One paper was accepted by [ICLR 2024](https://iclr.cc/Conferences/2024).
 - *2023.09*: &nbsp; 🎉 Three papers were accepted by [NeurIPS 2023](https://nips.cc/).
 - *2023.07*: &nbsp; 🎉 One paper was accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
 - *2023.06*: &nbsp; I will join the School of Software Technology at Zhejiang University as an Assistant Professor in Aug 2023!
@@ -75,7 +76,8 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 </div>
 </div>
 
-- ``NeurIPS 2023`` [Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks](https://openreview.net/pdf?id=GqXbfVmEPW), Zhaohan Xi\*, **Tianyu Du\***, Changjiang Li, Ren Pang, Shouling Ji, Jinghui Chen, Fenglong Ma, Ting Wang, **NeurIPS 2023**. [CCF-A] (\*Co-first authors)
+- ``ICLR 2024`` [ReMasker: Imputing Tabular Data with Masked Autoencoding](https://openreview.net/forum?id=KI9NqjLVDT), **Tianyu Du**, Luca Melis, Ting Wang, **ICLR 2024**. [CCF-A]
+- - ``NeurIPS 2023`` [Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks](https://openreview.net/pdf?id=GqXbfVmEPW), Zhaohan Xi\*, **Tianyu Du\***, Changjiang Li, Ren Pang, Shouling Ji, Jinghui Chen, Fenglong Ma, Ting Wang, **NeurIPS 2023**. [CCF-A] (\*Co-first authors)
 - ``NeurIPS 2023`` [UniT: A Unified Look at Certified Robust Training against Text Adversarial Perturbation](https://openreview.net/pdf?id=oGxE2Nvlda), Muchao Ye, Ziyi Yin, Tianrong Zhang, **Tianyu Du**, Jinghui Chen, Ting Wang, Fenglong Ma, **NeurIPS 2023**. [CCF-A]
 - ``NeurIPS 2023`` [VLATTACK: Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models](https://openreview.net/pdf?id=qBAED3u1XZ), Ziyi Yin, Muchao Ye, Tianrong Zhang, **Tianyu Du**, Jinguo Zhu, Han Liu, Jinghui Chen, Ting Wang, Fenglong Ma, **NeurIPS 2023**. [CCF-A]
 - ``ICCV 2023`` [An Embarrassingly Simple Self-supervised Trojan Attack](https://arxiv.org/abs/2210.07346), Changjiang Li, Ren Pang, Zhaohan Xi, **Tianyu Du**, Shouling Ji, Ting Wang, Yuan Yao, **ICCV 2023**. [CCF-A]
@@ -108,8 +110,7 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 # 🧾 Poster 
 - [SirenAttack: Generating Adversarial Audio for End-to-End Acoustic Systems](https://nesa.zju.edu.cn/download/SirenAttack%20Generating%20Adversarial%20Audio%20for%20End-to-End%20Acoustic%20Systems.pdf), **Tianyu Du**, Shouling Ji, Jinfeng Li, Qinchen Gu, Ting Wang and Raheem Beyah, **NDSS 2019 Poster Session**. 
 
-# 📖 arXiv Publications 
-- [ReMasker: Imputing Tabular Data with Masked Autoencoding](https://arxiv.org/abs/2309.13793), **Tianyu Du**, Luca Melis, Ting Wang.
+# 📖 arXiv  
 - [RNN-Guard: Certified Robustness Against Multi-frame Attacks for Recurrent Neural Networks](https://arxiv.org/pdf/2304.07980.pdf), Yunruo Zhang, **Tianyu Du**, Shouling Ji, Peng Tang, Shanqing Guo.
 - [Reasoning over Multi-view Knowledge Graphs](https://arxiv.org/abs/2209.13702), Zhaohan Xi, Ren Pang, Changjiang Li, **Tianyu Du**, Shouling Ji, Fenglong Ma, Ting Wang.
 
