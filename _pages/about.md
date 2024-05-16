@@ -27,6 +27,7 @@ My current research interests includes adversarial machine learning, robustness 
 
 
 # 🔥 News
+- *2024.05*: &nbsp; 🎉 Two papers were accepted by [ACL 2024](https://2024.aclweb.org/).
 - *2024.01*: &nbsp; 🎉 One paper was accepted by [ICLR 2024](https://iclr.cc/Conferences/2024).
 - *2023.09*: &nbsp; 🎉 Three papers were accepted by [NeurIPS 2023](https://nips.cc/).
 - *2023.07*: &nbsp; 🎉 One paper was accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
@@ -76,6 +77,8 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 </div>
 </div>
 
+- ``ACL 2024`` [ERA-CoT: Improving Chain-of-Thought through Entity Relationship Analysis](https://arxiv.org/pdf/2403.06932), Yanming Liu, Xinyue Peng, **Tianyu Du\***, Jianwei Yin, Weihao Liu, Xuhong Zhang, **ACL 2024**. [CCF-A]
+- ``ACL 2024`` [RA-ISF: Learning to Answer and Understand from Retrieval Augmentation via Iterative Self-Feedback](https://arxiv.org/pdf/2403.06840), Yanming Liu, Xinyue Peng, Xuhong Zhang, Weihao Liu, Jianwei Yin, Jiannan Cao, **Tianyu Du\***, **ACL Findings 2024**.
 - ``ICLR 2024`` [ReMasker: Imputing Tabular Data with Masked Autoencoding](https://openreview.net/forum?id=KI9NqjLVDT), **Tianyu Du**, Luca Melis, Ting Wang, **ICLR 2024**. [TH-CPL A]
 - ``NeurIPS 2023`` [Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks](https://openreview.net/pdf?id=GqXbfVmEPW), Zhaohan Xi\*, **Tianyu Du\***, Changjiang Li, Ren Pang, Shouling Ji, Jinghui Chen, Fenglong Ma, Ting Wang, **NeurIPS 2023**. [CCF-A] (\*Co-first authors)
 - ``NeurIPS 2023`` [UniT: A Unified Look at Certified Robust Training against Text Adversarial Perturbation](https://openreview.net/pdf?id=oGxE2Nvlda), Muchao Ye, Ziyi Yin, Tianrong Zhang, **Tianyu Du**, Jinghui Chen, Ting Wang, Fenglong Ma, **NeurIPS 2023**. [CCF-A]
