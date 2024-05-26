@@ -21,7 +21,7 @@ I am now an assistant professor at the School of Software Technology at Zhejiang
 
 I obtained my Ph.D. degree in the College of Computer Science and Technology at the Zhejiang University in 2022, supervised by Prof. [Shouling Ji](https://nesa.zju.edu.cn/webpage/crew/jsl.html). During Ph.D., I have spent wonderful times in collaborating with academics at the university (e.g., Prof. [Bo Li](https://aisecure.github.io/) at UIUC, and Prof. [Ting Wang](https://alps-lab.github.io/) at PSU), and researchers in the industrial community (e.g., Dr. [Tao Wei](https://scholar.google.com/citations?user=Ao3wEckAAAAJ&hl=zh-CN) at Baidu USA (now Ant Financial), Dr. [Jie Shi](https://scholar.google.com/citations?user=GQJDlW8AAAAJ&hl=zh-CN) at Huawei Singapore Research Center). Before that, I obtained my B.E. degree in the Communication Engineering at the College of Information Science and Techonology, Xiamen University.
 
-My current research interests includes adversarial machine learning, robustness of deep learning systems, and the security of large language models. I have published 20+ papers at the top international conferences and journals such as USENIX Security, CCS, NDSS, ICCV, ICSE, TDSC, etc. 
+My current research interests include trustworthy large language models and LLM-based agent safety. I have published 20+ papers at the top international conferences and journals such as USENIX Security, CCS, NDSS, ICLR, NeurIPS, ICCV, TDSC, etc. 
 
 *<span style="color:red">Openings:</span> I am looking for motivated PhD/Master/intern students to join my research group. Please drop me an email if you are interested in working with me!*
 
