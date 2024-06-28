@@ -23,7 +23,7 @@ I obtained my Ph.D. degree in the College of Computer Science and Technology at 
 
 My current research interests include trustworthy large language models and LLM-based agent safety. I have published 20+ papers at the top international conferences and journals such as USENIX Security, CCS, NDSS, ICLR, NeurIPS, ICCV, TDSC, etc. 
 
-*<span style="color:red">Openings:</span> I am looking for motivated PhD/Master/intern students to join my research group. Please drop me an email if you are interested in working with me!*
+*<span style="color:red">Openings:</span> I am looking for motivated PhD/Master/intern students to join my research group (no position for PhD/Master students at the College of Computer Science and Technology). Please drop me an email if you are interested in working with me!*
 
 
 # 🔥 News
