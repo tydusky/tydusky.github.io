@@ -27,6 +27,7 @@ My current research interests include trustworthy large language models and LLM-
 
 
 # 🔥 News
+- *2024.07*: &nbsp; 🎉 One papers was accepted by [NDSS 2025](https://www.ndss-symposium.org/ndss2025/).
 - *2024.07*: &nbsp; 🎉 Two papers were accepted by [MM 2024](https://2024.acmmm.org/).
 - *2024.07*: &nbsp; 🎉 One paper was accepted by [CCS 2024](https://www.sigsac.org/ccs/CCS2024/).
 - *2024.05*: &nbsp; 🎉 Two papers were accepted by [ACL 2024](https://2024.aclweb.org/).
@@ -79,6 +80,7 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 </div>
 </div>
 
+- ``NDSS 2025`` [CLIBE: Detecting Dynamic Backdoors in Transformer-based NLP Models], Rui Zeng, Xi Chen, Yuwen Pu, Xuhong Zhang, Tianyu Du, Shouling Ji, **NDSS 2024**. [CCF-A]
 - ``MM 2024`` [TransLinkGuard: Safeguarding Transformer Models Against Model Stealing in Edge Deployment](https://arxiv.org/pdf/2404.11121), Qinfeng Li, Zhiqiang Shen, Zhenghan Qin, Yangfan Xie, Xuhong Zhang, **Tianyu Du**, Sheng Cheng, Xun Wang, Jianwei Yin,  **MM 2024**. [CCF-A]
 - ``MM 2024`` Cons2Plan: Vector Floorplan Generation from Various Conditions via a Learning Framework based on Conditional Diffusion Models, Shibo Hong, Xuhong Zhang, **Tianyu Du\***, Sheng Cheng, Xun Wang, Jianwei Yin, **MM 2024**. [CCF-A]
 - ``CCS 2024`` Unveiling the Vulnerability of Private Fine-Tuning in Split-Based Frameworks for Large Language Models: A Bidirectionally Enhanced Attack, Guanzhong Chen, Zhenghan Qin, Mingxin Yang, Yajie Zhou, Tao Fan, **Tianyu Du\***, Zenglin Xu*, **CCS 2024**. [CCF-A]
