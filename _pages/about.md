@@ -80,10 +80,10 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 </div>
 </div>
 
-- ``NDSS 2025`` [CLIBE: Detecting Dynamic Backdoors in Transformer-based NLP Models], Rui Zeng, Xi Chen, Yuwen Pu, Xuhong Zhang, Tianyu Du, Shouling Ji, **NDSS 2024**. [CCF-A]
+- ``NDSS 2025`` [CLIBE: Detecting Dynamic Backdoors in Transformer-based NLP Models](https://arxiv.org/abs/2409.01193), Rui Zeng, Xi Chen, Yuwen Pu, Xuhong Zhang, Tianyu Du, Shouling Ji, **NDSS 2024**. [CCF-A]
 - ``MM 2024`` [TransLinkGuard: Safeguarding Transformer Models Against Model Stealing in Edge Deployment](https://arxiv.org/pdf/2404.11121), Qinfeng Li, Zhiqiang Shen, Zhenghan Qin, Yangfan Xie, Xuhong Zhang, **Tianyu Du**, Sheng Cheng, Xun Wang, Jianwei Yin,  **MM 2024**. [CCF-A]
 - ``MM 2024`` Cons2Plan: Vector Floorplan Generation from Various Conditions via a Learning Framework based on Conditional Diffusion Models, Shibo Hong, Xuhong Zhang, **Tianyu Du\***, Sheng Cheng, Xun Wang, Jianwei Yin, **MM 2024**. [CCF-A]
-- ``CCS 2024`` Unveiling the Vulnerability of Private Fine-Tuning in Split-Based Frameworks for Large Language Models: A Bidirectionally Enhanced Attack, Guanzhong Chen, Zhenghan Qin, Mingxin Yang, Yajie Zhou, Tao Fan, **Tianyu Du\***, Zenglin Xu*, **CCS 2024**. [CCF-A]
+- ``CCS 2024`` [Unveiling the Vulnerability of Private Fine-Tuning in Split-Based Frameworks for Large Language Models: A Bidirectionally Enhanced Attack](https://arxiv.org/abs/2409.00960), Guanzhong Chen, Zhenghan Qin, Mingxin Yang, Yajie Zhou, Tao Fan, **Tianyu Du\***, Zenglin Xu*, **CCS 2024**. [CCF-A]
 - ``ACL 2024`` [ERA-CoT: Improving Chain-of-Thought through Entity Relationship Analysis](https://arxiv.org/pdf/2403.06932), Yanming Liu, Xinyue Peng, **Tianyu Du\***, Jianwei Yin, Weihao Liu, Xuhong Zhang, **ACL 2024**. [CCF-A]
 - ``ACL 2024`` [RA-ISF: Learning to Answer and Understand from Retrieval Augmentation via Iterative Self-Feedback](https://arxiv.org/pdf/2403.06840), Yanming Liu, Xinyue Peng, Xuhong Zhang, Weihao Liu, Jianwei Yin, Jiannan Cao, **Tianyu Du\***, **ACL Findings 2024**.
 - ``ICLR 2024`` [ReMasker: Imputing Tabular Data with Masked Autoencoding](https://openreview.net/forum?id=KI9NqjLVDT), **Tianyu Du**, Luca Melis, Ting Wang, **ICLR 2024**. [TH-CPL A]
