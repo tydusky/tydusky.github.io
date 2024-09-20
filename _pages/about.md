@@ -27,7 +27,7 @@ My current research interests include trustworthy large language models and LLM-
 
 
 # 🔥 News
-- *2024.07*: &nbsp; 🎉 One paper was accepted by [EMNLP 2024](https://2024.emnlp.org/).
+- *2024.09*: &nbsp; 🎉 One paper was accepted by [EMNLP 2024](https://2024.emnlp.org/).
 - *2024.07*: &nbsp; 🎉 One paper was accepted by [NDSS 2025](https://www.ndss-symposium.org/ndss2025/).
 - *2024.07*: &nbsp; 🎉 Two papers were accepted by [MM 2024](https://2024.acmmm.org/).
 - *2024.07*: &nbsp; 🎉 One paper was accepted by [CCS 2024](https://www.sigsac.org/ccs/CCS2024/).
