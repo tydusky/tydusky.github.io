@@ -28,6 +28,7 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 
 
 # 🔥 News
+- *2024.11*: &nbsp; 🎉 One paper was accepted by [COLING 2025](https://coling2025.org/).
 - *2024.09*: &nbsp; 🎉 One paper was accepted by [EMNLP 2024](https://2024.emnlp.org/).
 - *2024.07*: &nbsp; 🎉 One paper was accepted by [NDSS 2025](https://www.ndss-symposium.org/ndss2025/).
 - *2024.07*: &nbsp; 🎉 Two papers were accepted by [MM 2024](https://2024.acmmm.org/).
@@ -82,6 +83,7 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 </div>
 </div>
 
+- ``COLING 2025`` [DROWN: Towards Tighter LiRPA-based Robustness Certification](https://arxiv.org/abs/2304.07980), Yunruo Zhang, **Tianyu Du**, Shouling Ji, Shanqing Guo.
 - ``EMNLP 2024`` [SecCoder: Towards Generalizable and Robust Secure Code Generation](https://arxiv.org/abs/2410.01488), Boyu Zhang, **Tianyu Du\***, Junkai Tong, Xuhong Zhang, Kingsum Chow*, Sheng Cheng, Xun Wang, Jianwei Yin, EMNLP (Main) 2024. [TH-CPL A]
 - ``NDSS 2025`` [CLIBE: Detecting Dynamic Backdoors in Transformer-based NLP Models](https://arxiv.org/abs/2409.01193), Rui Zeng, Xi Chen, Yuwen Pu, Xuhong Zhang, **Tianyu Du**, Shouling Ji, **NDSS 2025**. [CCF-A]
 - ``MM 2024`` [TransLinkGuard: Safeguarding Transformer Models Against Model Stealing in Edge Deployment](https://arxiv.org/pdf/2404.11121), Qinfeng Li, Zhiqiang Shen, Zhenghan Qin, Yangfan Xie, Xuhong Zhang, **Tianyu Du**, Sheng Cheng, Xun Wang, Jianwei Yin,  **MM 2024**. [CCF-A]
@@ -122,10 +124,6 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 
 # 🧾 Poster 
 - [SirenAttack: Generating Adversarial Audio for End-to-End Acoustic Systems](https://nesa.zju.edu.cn/download/SirenAttack%20Generating%20Adversarial%20Audio%20for%20End-to-End%20Acoustic%20Systems.pdf), **Tianyu Du**, Shouling Ji, Jinfeng Li, Qinchen Gu, Ting Wang and Raheem Beyah, **NDSS 2019 Poster Session**. 
-
-# 📖 arXiv  
-- [RNN-Guard: Certified Robustness Against Multi-frame Attacks for Recurrent Neural Networks](https://arxiv.org/pdf/2304.07980.pdf), Yunruo Zhang, **Tianyu Du**, Shouling Ji, Peng Tang, Shanqing Guo.
-- [Reasoning over Multi-view Knowledge Graphs](https://arxiv.org/abs/2209.13702), Zhaohan Xi, Ren Pang, Changjiang Li, **Tianyu Du**, Shouling Ji, Fenglong Ma, Ting Wang.
 
 # 📓 Patents 
 - CN, "A method and system for generating adversarial audio under white-box settings"
