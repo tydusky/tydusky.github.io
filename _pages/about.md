@@ -28,6 +28,7 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 
 
 # 🔥 News
+- *2024.12*: &nbsp; 🎉 One paper was accepted by [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).
 - *2024.11*: &nbsp; 🎉 One paper was accepted by [COLING 2025](https://coling2025.org/).
 - *2024.09*: &nbsp; 🎉 One paper was accepted by [EMNLP 2024](https://2024.emnlp.org/).
 - *2024.07*: &nbsp; 🎉 One paper was accepted by [NDSS 2025](https://www.ndss-symposium.org/ndss2025/).
@@ -83,8 +84,9 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 </div>
 </div>
 
-- ``COLING 2025`` [DROWN: Towards Tighter LiRPA-based Robustness Certification](https://arxiv.org/abs/2304.07980), Yunruo Zhang, **Tianyu Du**, Shouling Ji, Shanqing Guo.
-- ``EMNLP 2024`` [SecCoder: Towards Generalizable and Robust Secure Code Generation](https://arxiv.org/abs/2410.01488), Boyu Zhang, **Tianyu Du\***, Junkai Tong, Xuhong Zhang, Kingsum Chow*, Sheng Cheng, Xun Wang, Jianwei Yin, EMNLP (Main) 2024. [TH-CPL A]
+- ``AAAI 2025`` [DP-MemArc: Differential Privacy Transfer Learning for Memory Efficient Language Models](https://arxiv.org/abs/2406.11087), Yanming Liu, Xinyue Peng, Yuwei Zhang, Xiaolan Ke, Songhang Deng, Jiannan Cao, Chen Ma, Mengchen Fu, Xuhong Zhang, Sheng Cheng, Xun Wang, Jianwei Yin, **Tianyu Du***, **AAAI 2025**.
+- ``COLING 2025`` [DROWN: Towards Tighter LiRPA-based Robustness Certification](https://arxiv.org/abs/2304.07980), Yunruo Zhang, **Tianyu Du**, Shouling Ji, Shanqing Guo, **COLING 2025**.
+- ``EMNLP 2024`` [SecCoder: Towards Generalizable and Robust Secure Code Generation](https://arxiv.org/abs/2410.01488), Boyu Zhang, **Tianyu Du\***, Junkai Tong, Xuhong Zhang, Kingsum Chow*, Sheng Cheng, Xun Wang, Jianwei Yin, **EMNLP (Main) 2024**. [TH-CPL A]
 - ``NDSS 2025`` [CLIBE: Detecting Dynamic Backdoors in Transformer-based NLP Models](https://arxiv.org/abs/2409.01193), Rui Zeng, Xi Chen, Yuwen Pu, Xuhong Zhang, **Tianyu Du**, Shouling Ji, **NDSS 2025**. [CCF-A]
 - ``MM 2024`` [TransLinkGuard: Safeguarding Transformer Models Against Model Stealing in Edge Deployment](https://arxiv.org/pdf/2404.11121), Qinfeng Li, Zhiqiang Shen, Zhenghan Qin, Yangfan Xie, Xuhong Zhang, **Tianyu Du**, Sheng Cheng, Xun Wang, Jianwei Yin,  **MM 2024**. [CCF-A]
 - ``MM 2024`` [Cons2Plan: Vector Floorplan Generation from Various Conditions via a Learning Framework based on Conditional Diffusion Models](https://dl.acm.org/doi/10.1145/3664647.3680681), Shibo Hong, Xuhong Zhang, **Tianyu Du\***, Sheng Cheng, Xun Wang, Jianwei Yin, **MM 2024**. [CCF-A]
