@@ -87,7 +87,7 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 
 
 - ``ICLR 2025`` [CollabEdit: Towards Non-destructive Collaborative Knowledge Editing](https://arxiv.org/abs/2410.09508), Jiamu Zheng, Jinghuai Zhang, **Tianyu Du***, Xuhong Zhang, Jianwei Yin, Tao Lin, **ICLR 2025**.
-- - ``ICLR 2025`` [Bridging Context Gaps: Leveraging Coreference Resolution for Long Contextual Understanding](https://arxiv.org/abs/2410.01671), Yanming Liu, Xinyue Peng, Jiannan Cao, Shi Bo, Yanxin Shen, **Tianyu Du***, Sheng Cheng, Xun Wang, Jianwei Yin, Xuhong Zhang*, **ICLR 2025**.
+- ``ICLR 2025`` [Bridging Context Gaps: Leveraging Coreference Resolution for Long Contextual Understanding](https://arxiv.org/abs/2410.01671), Yanming Liu, Xinyue Peng, Jiannan Cao, Shi Bo, Yanxin Shen, **Tianyu Du***, Sheng Cheng, Xun Wang, Jianwei Yin, Xuhong Zhang*, **ICLR 2025**.
 - ``ICLR 2025`` [Tool-Planner: Task Planning with Clusters across Multiple Tools](https://arxiv.org/abs/2406.03807), Yanming Liu, Xinyue Peng, Jiannan Cao, Shi Bo, Yuwei Zhang, **Tianyu Du***, Sheng Cheng, Xun Wang, Jianwei Yin, Xuhong Zhang*, **ICLR 2025**.
 - ``AAAI 2025`` [DP-MemArc: Differential Privacy Transfer Learning for Memory Efficient Language Models](https://arxiv.org/abs/2406.11087), Yanming Liu, Xinyue Peng, Yuwei Zhang, Xiaolan Ke, Songhang Deng, Jiannan Cao, Chen Ma, Mengchen Fu, Xuhong Zhang, Sheng Cheng, Xun Wang, Jianwei Yin, **Tianyu Du***, **AAAI 2025**.
 - ``COLING 2025`` [DROWN: Towards Tighter LiRPA-based Robustness Certification](https://arxiv.org/abs/2304.07980), Yunruo Zhang, **Tianyu Du**, Shouling Ji, Shanqing Guo, **COLING 2025**.
