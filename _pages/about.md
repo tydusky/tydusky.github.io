@@ -86,7 +86,7 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 </div>
 </div>
 
-- ``IJCAI 2025`` [Scalable Multi-Stage Influence Function for Large Language Models via Eigenvalue-Corrected Kronecker-Factored Parameterization](), Yuntai Bao, Tianyu Du, Jianwei Yin, Xinkui Zhao, Jiang Zong, Hao Peng, Xuhong Zhang, **IJCAI 2025**.
+- ``IJCAI 2025`` [Scalable Multi-Stage Influence Function for Large Language Models via Eigenvalue-Corrected Kronecker-Factored Parameterization](), Yuntai Bao, Xuhong Zhang*, **Tianyu Du***,  Xinkui Zhao, Jiang Zong, Hao Peng, Jianwei Yin, **IJCAI 2025**.
 - ``ICLR 2025`` [CollabEdit: Towards Non-destructive Collaborative Knowledge Editing](https://arxiv.org/abs/2410.09508), Jiamu Zheng, Jinghuai Zhang, **Tianyu Du***, Xuhong Zhang, Jianwei Yin, Tao Lin, **ICLR 2025**. 
 - ``ICLR 2025`` [Bridging Context Gaps: Leveraging Coreference Resolution for Long Contextual Understanding](https://arxiv.org/abs/2410.01671), Yanming Liu, Xinyue Peng, Jiannan Cao, Shi Bo, Yanxin Shen, **Tianyu Du\***, Sheng Cheng, Xun Wang, Jianwei Yin, Xuhong Zhang\*, **ICLR 2025**.
 - ``ICLR 2025`` [Tool-Planner: Task Planning with Clusters across Multiple Tools](https://arxiv.org/abs/2406.03807), Yanming Liu, Xinyue Peng, Jiannan Cao, Shi Bo, Yuwei Zhang, Xuhong Zhang\*, Sheng Cheng, Xun Wang, Jianwei Yin, **Tianyu Du\***, **ICLR 2025**.
