@@ -28,6 +28,7 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 
 
 # 🔥 News
+- *2025.07*: &nbsp; 🎉 One paper was accepted by [MM 2025](https://acmmm2025.org/).
 - *2025.06*: &nbsp; 🎉 One paper was accepted by [ICCV 2025](https://iccv.thecvf.com/).
 - *2025.04*: &nbsp; 🎉 One paper was accepted by [ACL 2025](https://2025.aclweb.org/).
 - *2025.04*: &nbsp; 🎉 One paper was accepted by [IJCAI 2025](https://2025.ijcai.org/).
@@ -88,9 +89,10 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 </div>
 </div>
 
-- ``ICCV 2025`` [An Inversion-based Measure of Memorization for Diffusion Models](https://arxiv.org/abs/2405.05846), Zhe Ma, Qingming Li, Xuhong Zhang, Tianyu Du, Ruixiao Lin, Zonghui Wang, Shouling Ji, Wenzhi Chen, **ICCV 2025**.
-- ``ACL 2025`` [Revisiting The Geometry of Truth: Emergent Consistent Linear Representation of Truthfulness in Capable Language Models](https://arxiv.org/abs/2506.00823v1), Yuntai Bao, Xuhong Zhang*, **Tianyu Du**, Xinkui Zhao, Zhengwen Feng, Jianwei Yin, **ACL Findings 2025**.
-- ``IJCAI 2025`` [Scalable Multi-Stage Influence Function for Large Language Models via Eigenvalue-Corrected Kronecker-Factored Parameterization](https://arxiv.org/abs/2505.05017), Yuntai Bao, Xuhong Zhang*, **Tianyu Du***,  Xinkui Zhao, Jiang Zong, Hao Peng, Jianwei Yin, **IJCAI 2025**.
+- ``MM 2025`` [Enkidu: Universal Frequential Perturbation for Real-Time Audio Privacy Protection against Voice Deepfakes](), Zhou Feng, Jiahao Chen, Chunyi Zhou, Yuwen Pu, Qingming Li, **Tianyu Du**, Shouling Ji, **MM 2025**.
+- ``ICCV 2025`` [An Inversion-based Measure of Memorization for Diffusion Models](https://arxiv.org/abs/2405.05846), Zhe Ma, Qingming Li, Xuhong Zhang, **Tianyu Du**, Ruixiao Lin, Zonghui Wang, Shouling Ji, Wenzhi Chen, **ICCV 2025**.
+- ``ACL 2025`` [Revisiting The Geometry of Truth: Emergent Consistent Linear Representation of Truthfulness in Capable Language Models](https://arxiv.org/abs/2506.00823v1), Yuntai Bao, Xuhong Zhang, **Tianyu Du**, Xinkui Zhao, Zhengwen Feng, Jianwei Yin, **ACL Findings 2025**.
+- ``IJCAI 2025`` [Scalable Multi-Stage Influence Function for Large Language Models via Eigenvalue-Corrected Kronecker-Factored Parameterization](https://arxiv.org/abs/2505.05017), Yuntai Bao, Xuhong Zhang\*, **Tianyu Du***,  Xinkui Zhao, Jiang Zong, Hao Peng, Jianwei Yin, **IJCAI 2025**.
 - ``ICLR 2025`` [CollabEdit: Towards Non-destructive Collaborative Knowledge Editing](https://arxiv.org/abs/2410.09508), Jiamu Zheng, Jinghuai Zhang, **Tianyu Du***, Xuhong Zhang, Jianwei Yin, Tao Lin, **ICLR 2025**. 
 - ``ICLR 2025`` [Bridging Context Gaps: Leveraging Coreference Resolution for Long Contextual Understanding](https://arxiv.org/abs/2410.01671), Yanming Liu, Xinyue Peng, Jiannan Cao, Shi Bo, Yanxin Shen, **Tianyu Du\***, Sheng Cheng, Xun Wang, Jianwei Yin, Xuhong Zhang\*, **ICLR 2025**.
 - ``ICLR 2025`` [Tool-Planner: Task Planning with Clusters across Multiple Tools](https://arxiv.org/abs/2406.03807), Yanming Liu, Xinyue Peng, Jiannan Cao, Shi Bo, Yuwei Zhang, Xuhong Zhang\*, Sheng Cheng, Xun Wang, Jianwei Yin, **Tianyu Du\***, **ICLR 2025**.
