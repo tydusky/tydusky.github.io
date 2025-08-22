@@ -28,7 +28,7 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 
 
 # 🔥 News
-- *2025.07*: &nbsp; 🎉 Three papers were accepted by [EMNLP 2025](https://2025.emnlp.org/).
+- *2025.08*: &nbsp; 🎉 Three papers were accepted by [EMNLP 2025](https://2025.emnlp.org/).
 - *2025.07*: &nbsp; 🎉 One paper was accepted by [MM 2025](https://acmmm2025.org/).
 - *2025.06*: &nbsp; 🎉 One paper was accepted by [ICCV 2025](https://iccv.thecvf.com/).
 - *2025.04*: &nbsp; 🎉 One paper was accepted by [ACL 2025](https://2025.aclweb.org/).
