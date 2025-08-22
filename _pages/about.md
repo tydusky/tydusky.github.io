@@ -91,7 +91,7 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 </div>
 
 - ``EMNLP 2025`` [IPIGuard: A Novel Tool Dependency Graph-Based Defense Against Indirect Prompt Injection in LLM Agents](), Hengyu An, Jinghuai Zhang, **Tianyu Du***, Chunyi Zhou, Qingming Li, Tao Lin, Shouling Ji, **EMNLP (Main) 2025**.
-- ``EMNLP 2025`` [VideoEraser: Concept Erasure in Text-to-Video Diffusion Models](), Naen Xu, Jinghuai Zhang, Changjiang Li, Zhi Chen, Chunyi Zhou, Qingming Li, **Tianyu Du***, Shouling Ji, **EMNLP (Main) 2025**.
+- ``EMNLP 2025`` [VideoEraser: Concept Erasure in Text-to-Video Diffusion Models](https://arxiv.org/abs/2508.15314), Naen Xu, Jinghuai Zhang, Changjiang Li, Zhi Chen, Chunyi Zhou, Qingming Li, **Tianyu Du***, Shouling Ji, **EMNLP (Main) 2025**.
 - ``EMNLP 2025`` [CLMTracing: Black-box User-level Watermarking for Code Language Model Tracing](), Boyu Zhang, Ping He, **Tianyu Du***, Xuhong Zhang, Lei Yun, Kingsum Chow, Jianwei Yin, **EMNLP (Main) 2025**.
 - ``MM 2025`` [Enkidu: Universal Frequential Perturbation for Real-Time Audio Privacy Protection against Voice Deepfakes](), Zhou Feng, Jiahao Chen, Chunyi Zhou, Yuwen Pu, Qingming Li, **Tianyu Du**, Shouling Ji, **MM 2025**.
 - ``ICCV 2025`` [An Inversion-based Measure of Memorization for Diffusion Models](https://arxiv.org/abs/2405.05846), Zhe Ma, Qingming Li, Xuhong Zhang, **Tianyu Du**, Ruixiao Lin, Zonghui Wang, Shouling Ji, Wenzhi Chen, **ICCV 2025**.
