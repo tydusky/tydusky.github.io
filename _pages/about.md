@@ -28,6 +28,7 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 
 
 # 🔥 News
+- *2025.09*: &nbsp; 🎉 Two papers were selected for the ORAL presentation at EMNLP’25!.
 - *2025.08*: &nbsp; 🎉 Three papers were accepted by [EMNLP 2025](https://2025.emnlp.org/).
 - *2025.07*: &nbsp; 🎉 One paper was accepted by [MM 2025](https://acmmm2025.org/).
 - *2025.06*: &nbsp; 🎉 One paper was accepted by [ICCV 2025](https://iccv.thecvf.com/).
@@ -90,9 +91,9 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 </div>
 </div>
 
-- ``EMNLP 2025`` [IPIGuard: A Novel Tool Dependency Graph-Based Defense Against Indirect Prompt Injection in LLM Agents](https://arxiv.org/abs/2508.15310), Hengyu An, Jinghuai Zhang, **Tianyu Du***, Chunyi Zhou, Qingming Li, Tao Lin, Shouling Ji, **EMNLP (Main) 2025**.
+- ``EMNLP 2025`` [IPIGuard: A Novel Tool Dependency Graph-Based Defense Against Indirect Prompt Injection in LLM Agents](https://arxiv.org/abs/2508.15310), Hengyu An, Jinghuai Zhang, **Tianyu Du***, Chunyi Zhou, Qingming Li, Tao Lin, Shouling Ji, **EMNLP (Oral) 2025**.
 - ``EMNLP 2025`` [VideoEraser: Concept Erasure in Text-to-Video Diffusion Models](https://arxiv.org/abs/2508.15314), Naen Xu, Jinghuai Zhang, Changjiang Li, Zhi Chen, Chunyi Zhou, Qingming Li, **Tianyu Du***, Shouling Ji, **EMNLP (Main) 2025**.
-- ``EMNLP 2025`` [CLMTracing: Black-box User-level Watermarking for Code Language Model Tracing](), Boyu Zhang, Ping He, **Tianyu Du***, Xuhong Zhang, Lei Yun, Kingsum Chow, Jianwei Yin, **EMNLP (Main) 2025**.
+- ``EMNLP 2025`` [CLMTracing: Black-box User-level Watermarking for Code Language Model Tracing](), Boyu Zhang, Ping He, **Tianyu Du***, Xuhong Zhang, Lei Yun, Kingsum Chow, Jianwei Yin, **EMNLP (Oral) 2025**.
 - ``MM 2025`` [Enkidu: Universal Frequential Perturbation for Real-Time Audio Privacy Protection against Voice Deepfakes](), Zhou Feng, Jiahao Chen, Chunyi Zhou, Yuwen Pu, Qingming Li, **Tianyu Du**, Shouling Ji, **MM 2025**.
 - ``ICCV 2025`` [An Inversion-based Measure of Memorization for Diffusion Models](https://arxiv.org/abs/2405.05846), Zhe Ma, Qingming Li, Xuhong Zhang, **Tianyu Du**, Ruixiao Lin, Zonghui Wang, Shouling Ji, Wenzhi Chen, **ICCV 2025**.
 - ``ACL 2025`` [Revisiting The Geometry of Truth: Emergent Consistent Linear Representation of Truthfulness in Capable Language Models](https://arxiv.org/abs/2506.00823v1), Yuntai Bao, Xuhong Zhang, **Tianyu Du**, Xinkui Zhao, Zhengwen Feng, Jianwei Yin, **ACL Findings 2025**.
