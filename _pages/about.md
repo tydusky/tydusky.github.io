@@ -94,7 +94,7 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 </div>
 
 - ``AAAI 2026`` [Bridging the Copyright Gap: Do Large Vision-Language Models Recognize and Respect Copyrighted Content?](), Naen Xu, Jinghuai Zhang, Changjiang Li, Hengyu An, Chunyi Zhou, Jun Wang, Boyu Xu, Yuyuan Li, **Tianyu Du***, Shouling Ji, **AAAI (Oral) 2026**.
-- ``AAAI 2026`` [HogVul: Black-box Adversarial Code Generation Framework Against LM-based Vulnerability Detectors](), Jingxiao Yang, Ping He, **Tianyu Du***, Bing Sun, Xuhong Zhang\*, **AAAI (Oral) 2026**.
+- ``AAAI 2026`` [HogVul: Black-box Adversarial Code Generation Framework Against LM-based Vulnerability Detectors](), Jingxiao Yang, Ping He, **Tianyu Du***, Bing Sun, Xuhong Zhang\*, **AAAI <span style="color:red">(Oral)</span> 2026**.
 - ``AAAI 2026`` [DP-GenG: Differentially Private Dataset Distillation Guided by DP-Generated Data](), Shuo Shi, Jinghuai Zhang, Shijie Jiang, Chunyi Zhou, Yuyuan Li, Mengying Zhu, Yangyang Wu, **Tianyu Du***, **AAAI 2026**.
 - ``AAAI 2026`` [FedAU^2: Attribute Unlearning for User-Level Federated Recommender Systems with Adaptive and Robust Adversarial Training](), Yuyuan Li, Junjie Fang, Fengyuan Yu, Xichun Sheng, **Tianyu Du**, Xuyang Teng, Shaowei Jiang, Linbo Jiang, Jianan Lin, Chaochao Chen, **AAAI 2026**.
 - ``AAAI 2026`` [LSHFed: Robust and Communication-Efficient Federated Learning with Locally-Sensitive Hashing Gradient Mapping](), Guanjie Cheng, Mengzhen Yang, Xinkui Zhao, Shuyi Yu, **Tianyu Du**, Yangyang Wu, Mengying Zhu, Shuiguang Deng, **AAAI 2026**.
