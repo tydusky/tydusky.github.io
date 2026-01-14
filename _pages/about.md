@@ -28,6 +28,7 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 
 
 # 🔥 News
+- *2026.01*: &nbsp; 🎉 One paper was accepted by [WWW 2026](https://www2026.thewebconf.org/).
 - *2025.11*: &nbsp; 🎉 One paper was accepted by [KDD 2026](https://kdd2026.kdd.org/).
 - *2025.11*: &nbsp; 🎉 One paper was accepted by [TIFS 2025](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security).
 - *2025.11*: &nbsp; 🎉 Two papers were selected for **ORAL** presentation at AAAI’26!
@@ -95,7 +96,8 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 </div>
 </div>
 
-- ``KDD 2026`` [The Eminence in Shadow: Exploiting Feature Boundary Ambiguity for Robust Backdoor Attacks](), Zhou Feng, Jiahao Chen, Chunyi Zhou, Yuwen Pu, **Tianyu Du**, Jinbao Li, Jianhai Chen, Shouling Ji, **KDD 2026**. 
+- ``WWW 2026`` [FraudShield: Knowledge Graph Empowered Defense for LLMs against Fraud Attacks](), Naen Xu, Jinghuai Zhang, Ping He, Chunyi Zhou, Jun Wang, Zhihui Fu, **Tianyu Du***, Zhaoxiang Wang, Shouling Ji, **WWW 2026**. [CCF A]
+- ``KDD 2026`` [The Eminence in Shadow: Exploiting Feature Boundary Ambiguity for Robust Backdoor Attacks](), Zhou Feng, Jiahao Chen, Chunyi Zhou, Yuwen Pu, **Tianyu Du**, Jinbao Li, Jianhai Chen, Shouling Ji, **KDD 2026**. [CCF A]
 - ``AAAI 2026`` [Bridging the Copyright Gap: Do Large Vision-Language Models Recognize and Respect Copyrighted Content?](), Naen Xu, Jinghuai Zhang, Changjiang Li, Hengyu An, Chunyi Zhou, Jun Wang, Boyu Xu, Yuyuan Li, **Tianyu Du***, Shouling Ji, **AAAI <span style="color:red">(Oral)</span> 2026**. [CCF A]
 - ``AAAI 2026`` [HogVul: Black-box Adversarial Code Generation Framework Against LM-based Vulnerability Detectors](), Jingxiao Yang, Ping He, **Tianyu Du***, Bing Sun, Xuhong Zhang\*, **AAAI <span style="color:red">(Oral)</span> 2026**. [CCF A]
 - ``AAAI 2026`` [DP-GenG: Differentially Private Dataset Distillation Guided by DP-Generated Data](https://arxiv.org/pdf/2511.09876), Shuo Shi, Jinghuai Zhang, Shijie Jiang, Chunyi Zhou, Yuyuan Li, Mengying Zhu, Yangyang Wu, **Tianyu Du***, **AAAI 2026**. [CCF A]
