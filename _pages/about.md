@@ -28,6 +28,7 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 
 
 # 🔥 News
+- *2026.01*: &nbsp; 🎉 One paper was accepted by [ICLR 2026](https://iclr.cc/).
 - *2026.01*: &nbsp; 🎉 One paper was accepted by [WWW 2026](https://www2026.thewebconf.org/).
 - *2025.11*: &nbsp; 🎉 One paper was accepted by [KDD 2026](https://kdd2026.kdd.org/).
 - *2025.11*: &nbsp; 🎉 One paper was accepted by [TIFS 2025](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security).
@@ -96,6 +97,7 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 </div>
 </div>
 
+- ``ICLR 2026`` [When Agents “Misremember” Collectively: Exploring the Mandela Effect in LLM-based Multi-Agent Systems](https://openreview.net/forum?id=yIoMqDes7O), Naen Xu, Hengyu An, Shuo Shi, Jinghuai Zhang, Chunyi Zhou, Changjiang Li, **Tianyu Du***, Zhihui Fu, Jun Wang, Shouling Ji, **ICLR 2026**.
 - ``WWW 2026`` [FraudShield: Knowledge Graph Empowered Defense for LLMs against Fraud Attacks](), Naen Xu, Jinghuai Zhang, Ping He, Chunyi Zhou, Jun Wang, Zhihui Fu, **Tianyu Du***, Zhaoxiang Wang, Shouling Ji, **WWW 2026**. [CCF A]
 - ``KDD 2026`` [The Eminence in Shadow: Exploiting Feature Boundary Ambiguity for Robust Backdoor Attacks](), Zhou Feng, Jiahao Chen, Chunyi Zhou, Yuwen Pu, **Tianyu Du**, Jinbao Li, Jianhai Chen, Shouling Ji, **KDD 2026**. [CCF A]
 - ``AAAI 2026`` [Bridging the Copyright Gap: Do Large Vision-Language Models Recognize and Respect Copyrighted Content?](), Naen Xu, Jinghuai Zhang, Changjiang Li, Hengyu An, Chunyi Zhou, Jun Wang, Boyu Xu, Yuyuan Li, **Tianyu Du***, Shouling Ji, **AAAI <span style="color:red">(Oral)</span> 2026**. [CCF A]
