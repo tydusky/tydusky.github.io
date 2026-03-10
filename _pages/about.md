@@ -30,7 +30,6 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 # 🔥 News
 - *2026.01*: &nbsp; 🎉 I was invited to serve as an Area Chair for ACL 2026.
 - *2026.01*: &nbsp; 🎉 One paper was accepted by [ICLR 2026](https://iclr.cc/).
-- *2026.01*: &nbsp; 🎉 One paper was accepted by [ICLR 2026](https://iclr.cc/).
 - *2026.01*: &nbsp; 🎉 One paper was accepted by [WWW 2026](https://www2026.thewebconf.org/).
 - *2025.11*: &nbsp; 🎉 One paper was accepted by [KDD 2026](https://kdd2026.kdd.org/).
 - *2025.11*: &nbsp; 🎉 One paper was accepted by [TIFS 2025](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security).
