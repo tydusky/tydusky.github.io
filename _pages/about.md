@@ -98,7 +98,7 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 </div>
 </div>
 
-- ``ICLR 2026`` [When Agents “Misremember” Collectively: Exploring the Mandela Effect in LLM-based Multi-Agent Systems](https://openreview.net/forum?id=yIoMqDes7O), Naen Xu, Hengyu An, Shuo Shi, Jinghuai Zhang, Chunyi Zhou, Changjiang Li, **Tianyu Du***, Zhihui Fu, Jun Wang, Shouling Ji, **ICLR 2026**. [CCF A]
+- ``ICLR 2026`` [When Agents “Misremember” Collectively: Exploring the Mandela Effect in LLM-based Multi-Agent Systems](https://openreview.net/forum?id=yIoMqDes7O), <u>Naen Xu</u>, Hengyu An, Shuo Shi, Jinghuai Zhang, Chunyi Zhou, Changjiang Li, **Tianyu Du***, Zhihui Fu, Jun Wang, Shouling Ji, **ICLR 2026**. [CCF A]
 - ``WWW 2026`` [FraudShield: Knowledge Graph Empowered Defense for LLMs against Fraud Attacks](https://arxiv.org/abs/2601.22485), Naen Xu, Jinghuai Zhang, Ping He, Chunyi Zhou, Jun Wang, Zhihui Fu, **Tianyu Du***, Zhaoxiang Wang, Shouling Ji, **WWW 2026**. [CCF A]
 - ``KDD 2026`` [The Eminence in Shadow: Exploiting Feature Boundary Ambiguity for Robust Backdoor Attacks](https://arxiv.org/abs/2512.10402), Zhou Feng, Jiahao Chen, Chunyi Zhou, Yuwen Pu, **Tianyu Du**, Jinbao Li, Jianhai Chen, Shouling Ji, **KDD 2026**. [CCF A]
 - ``AAAI 2026`` [Bridging the Copyright Gap: Do Large Vision-Language Models Recognize and Respect Copyrighted Content?](https://arxiv.org/abs/2512.21871), Naen Xu, Jinghuai Zhang, Changjiang Li, Hengyu An, Chunyi Zhou, Jun Wang, Boyu Xu, Yuyuan Li, **Tianyu Du***, Shouling Ji, **AAAI <span style="color:red">(Oral)</span> 2026**. [CCF A]
