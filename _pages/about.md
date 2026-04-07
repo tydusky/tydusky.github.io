@@ -28,6 +28,7 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 
 
 # 🔥 News
+- *2026.04*: &nbsp; 🎉 Five papers were accepted by [ACL 2026](https://2026.aclweb.org/).
 - *2026.01*: &nbsp; 🎉 I was invited to serve as an Area Chair for ACL 2026.
 - *2026.01*: &nbsp; 🎉 One paper was accepted by [ICLR 2026](https://iclr.cc/).
 - *2026.01*: &nbsp; 🎉 One paper was accepted by [WWW 2026](https://www2026.thewebconf.org/).
@@ -100,6 +101,11 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 
 Authors with an <u>underline</u> are my supervised students, and * indicates the <span style="color:red">corresponding author</span>.
 
+- ``ACL 2026`` [ACIArena: Toward Unified Evaluation for Agent Cascading Injection](), <u>Hengyu An</u>, <u>Minxi Li</u>, Jinghuai Zhang, <u>Naen Xu</u>, Chunyi Zhou, Changjiang Li, Xiaogang Xu, **Tianyu Du***, Shouling Ji, **ACL Main 2026**. [CCF A]
+- ``ACL 2026`` [“I See What You Did There”: Can Large Vision-Language Models Understand Multimodal Puns?](), <u>Naen Xu</u>, Jiayi Sheng, Changjiang Li, Chunyi Zhou, Yuyuan Li, Jun Wang, Zhihui Fu, **Tianyu Du***, Jinbao Li, Shouling Ji, **ACL Main 2026**. [CCF A]
+- ``ACL 2026``[Compiling Activation Steering into Weights via Null-Space Constraints for Stealthy Backdoors](), <u>Rui Yin</u>, <u>Tianxu Han</u>, <u>Naen Xu</u>, Changjiang Li, Ping He, Chunyi Zhou, Jun Wang, Zhihui Fu, **Tianyu Du***, Jinbao Li, Shouling Ji, **ACL Main 2026**. [CCF A]
+- - ``ACL 2026`` [PerMemSafe: Benchmarking Implicit Personalized Safety of Long Horizon Self-Evolving Agents](), <u>Hengyu An</u>, <u>Minxi Li</u>, <u>Naen Xu</u>, Chunyi Zhou, Xiaogang Xu, **Tianyu Du***, Jinbao Li, Shouling Ji, **ACL Findings 2026**.
+- ``ACL 2026`` [Beyond Over-Refusal: Defending Indirect Prompt Injection via Latent Instruction Manifolds](), Jiahao Chen, <u>Rui Yin</u>, Xinfeng Li, Qianli Ma, **Tianyu Du**, Zhihui Fu, Jun Wang, Zhaoxiang Wang, Shouling Ji, **ACL Findings 2026**.
 - ``ICLR 2026`` [When Agents “Misremember” Collectively: Exploring the Mandela Effect in LLM-based Multi-Agent Systems](https://openreview.net/forum?id=yIoMqDes7O), <u>Naen Xu</u>, <u>Hengyu An</u>, <u>Shuo Shi</u>, Jinghuai Zhang, Chunyi Zhou, Changjiang Li, **Tianyu Du***, Zhihui Fu, Jun Wang, Shouling Ji, **ICLR 2026**. [CCF A]
 - ``WWW 2026`` [FraudShield: Knowledge Graph Empowered Defense for LLMs against Fraud Attacks](https://arxiv.org/abs/2601.22485), <u>Naen Xu</u>, Jinghuai Zhang, Ping He, Chunyi Zhou, Jun Wang, Zhihui Fu, **Tianyu Du***, Zhaoxiang Wang, Shouling Ji, **WWW 2026**. [CCF A]
 - ``KDD 2026`` [The Eminence in Shadow: Exploiting Feature Boundary Ambiguity for Robust Backdoor Attacks](https://arxiv.org/abs/2512.10402), Zhou Feng, Jiahao Chen, Chunyi Zhou, Yuwen Pu, **Tianyu Du**, Jinbao Li, Jianhai Chen, Shouling Ji, **KDD 2026**. [CCF A]
