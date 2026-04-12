@@ -101,8 +101,8 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 
 Authors with an <u>underline</u> are my supervised students, and * indicates the <span style="color:red">corresponding author</span>.
 
-- ``ACL 2026`` [ACIArena: Toward Unified Evaluation for Agent Cascading Injection](), <u>Hengyu An</u>, <u>Minxi Li</u>, Jinghuai Zhang, <u>Naen Xu</u>, Chunyi Zhou, Changjiang Li, Xiaogang Xu, **Tianyu Du***, Shouling Ji, **ACL Main 2026**. [CCF A]
-- ``ACL 2026`` [“I See What You Did There”: Can Large Vision-Language Models Understand Multimodal Puns?](), <u>Naen Xu</u>, Jiayi Sheng, Changjiang Li, Chunyi Zhou, Yuyuan Li, Jun Wang, Zhihui Fu, **Tianyu Du***, Jinbao Li, Shouling Ji, **ACL Main 2026**. [CCF A]
+- ``ACL 2026`` [ACIArena: Toward Unified Evaluation for Agent Cascading Injection](https://arxiv.org/abs/2604.07775), <u>Hengyu An</u>, <u>Minxi Li</u>, Jinghuai Zhang, <u>Naen Xu</u>, Chunyi Zhou, Changjiang Li, Xiaogang Xu, **Tianyu Du***, Shouling Ji, **ACL Main 2026**. [CCF A]
+- ``ACL 2026`` [“I See What You Did There”: Can Large Vision-Language Models Understand Multimodal Puns?](https://arxiv.org/pdf/2604.05930), <u>Naen Xu</u>, Jiayi Sheng, Changjiang Li, Chunyi Zhou, Yuyuan Li, Jun Wang, Zhihui Fu, **Tianyu Du***, Jinbao Li, Shouling Ji, **ACL Main 2026**. [CCF A]
 - ``ACL 2026`` [Compiling Activation Steering into Weights via Null-Space Constraints for Stealthy Backdoors](), <u>Rui Yin</u>, <u>Tianxu Han</u>, <u>Naen Xu</u>, Changjiang Li, Ping He, Chunyi Zhou, Jun Wang, Zhihui Fu, **Tianyu Du***, Jinbao Li, Shouling Ji, **ACL Main 2026**. [CCF A]
 - ``ACL 2026`` [PerMemSafe: Benchmarking Implicit Personalized Safety of Long Horizon Self-Evolving Agents](), <u>Hengyu An</u>, <u>Minxi Li</u>, <u>Naen Xu</u>, Chunyi Zhou, Xiaogang Xu, **Tianyu Du***, Jinbao Li, Shouling Ji, **ACL Findings 2026**.
 - ``ICLR 2026`` [When Agents “Misremember” Collectively: Exploring the Mandela Effect in LLM-based Multi-Agent Systems](https://openreview.net/forum?id=yIoMqDes7O), <u>Naen Xu</u>, <u>Hengyu An</u>, <u>Shuo Shi</u>, Jinghuai Zhang, Chunyi Zhou, Changjiang Li, **Tianyu Du***, Zhihui Fu, Jun Wang, Shouling Ji, **ICLR 2026**. [CCF A]
