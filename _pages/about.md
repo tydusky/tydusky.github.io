@@ -28,6 +28,7 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 
 
 # 🔥 News
+- *2026.04*: &nbsp; 🎉 One paper was accepted by [ICMR 2026](https://www.icmr2026.org/).
 - *2026.04*: &nbsp; 🎉 Four papers were accepted by [ACL 2026](https://2026.aclweb.org/).
 - *2026.01*: &nbsp; 🎉 I was invited to serve as an Area Chair for ACL 2026.
 - *2026.01*: &nbsp; 🎉 One paper was accepted by [ICLR 2026](https://iclr.cc/).
@@ -101,6 +102,8 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 
 Authors with an <u>underline</u> are my supervised students, and * indicates the <span style="color:red">corresponding author</span>.
 
+- ``ICMR 2026`` [Content-Adaptive Implicit Neural Representations for Resolution-Agnostic Remote Sensing Watermarking](), <u>Minxi Li</u>,
+ <u>Hengyu An</u>, <u>Naen Xu</u>, **Tianyu Du***, **ICMR 2026**. 
 - ``ACL 2026`` [ACIArena: Toward Unified Evaluation for Agent Cascading Injection](https://arxiv.org/abs/2604.07775), <u>Hengyu An</u>, <u>Minxi Li</u>, Jinghuai Zhang, <u>Naen Xu</u>, Chunyi Zhou, Changjiang Li, Xiaogang Xu, **Tianyu Du***, Shouling Ji, **ACL Main 2026**. [CCF A]
 - ``ACL 2026`` [“I See What You Did There”: Can Large Vision-Language Models Understand Multimodal Puns?](https://arxiv.org/pdf/2604.05930), <u>Naen Xu</u>, Jiayi Sheng, Changjiang Li, Chunyi Zhou, Yuyuan Li, Jun Wang, Zhihui Fu, **Tianyu Du***, Jinbao Li, Shouling Ji, **ACL Main 2026**. [CCF A]
 - ``ACL 2026`` [Compiling Activation Steering into Weights via Null-Space Constraints for Stealthy Backdoors](), <u>Rui Yin</u>, <u>Tianxu Han</u>, <u>Naen Xu</u>, Changjiang Li, Ping He, Chunyi Zhou, Jun Wang, Zhihui Fu, **Tianyu Du***, Jinbao Li, Shouling Ji, **ACL Main 2026**. [CCF A]
