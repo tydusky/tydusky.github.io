@@ -28,6 +28,7 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 
 
 # 🔥 News
+- *2026.04*: &nbsp; 🎉 I will serve as a workshop chair for [ICDM 2026](http://icdm2026.neu.edu.cn/main.htm).
 - *2026.04*: &nbsp; 🎉 One paper was accepted by [ICMR 2026](https://www.icmr2026.org/).
 - *2026.04*: &nbsp; 🎉 Four papers were accepted by [ACL 2026](https://2026.aclweb.org/).
 - *2026.01*: &nbsp; 🎉 I was invited to serve as an Area Chair for ACL 2026.
