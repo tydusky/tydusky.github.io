@@ -28,6 +28,7 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 
 
 # 🔥 News
+- *2026.05*: &nbsp; 🎉 One paper was accepted by [ICML 2026](https://icml.cc/).
 - *2026.04*: &nbsp; 🎉 I will serve as a workshop chair for [ICDM 2026](http://icdm2026.neu.edu.cn/main.htm).
 - *2026.04*: &nbsp; 🎉 One paper was accepted by [ICMR 2026](https://www.icmr2026.org/).
 - *2026.04*: &nbsp; 🎉 Four papers were accepted by [ACL 2026](https://2026.aclweb.org/).
@@ -103,6 +104,7 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 
 Authors with an <u>underline</u> are my supervised students, and * indicates the <span style="color:red">corresponding author</span>.
 
+- ``ICML 2026`` [Leveraging Machine Unlearning for Cost-Efficient Preference Alignment](), XiaoHua Feng, Yuyuan Li, HuWei Ji, Li Zhang, Jiaming Zhang, **Tianyu Du**, Chaochao Chen, **ICML 2026**.
 - ``ICMR 2026`` [Content-Adaptive Implicit Neural Representations for Resolution-Agnostic Remote Sensing Watermarking](), <u>Minxi Li</u>,
  <u>Hengyu An</u>, <u>Naen Xu</u>, **Tianyu Du***, **ICMR 2026**. 
 - ``ACL 2026`` [ACIArena: Toward Unified Evaluation for Agent Cascading Injection](https://arxiv.org/abs/2604.07775), <u>Hengyu An</u>, <u>Minxi Li</u>, Jinghuai Zhang, <u>Naen Xu</u>, Chunyi Zhou, Changjiang Li, Xiaogang Xu, **Tianyu Du***, Shouling Ji, **ACL Main 2026**. [CCF A]
