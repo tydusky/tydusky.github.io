@@ -28,6 +28,7 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 
 
 # 🔥 News
+- *2026.05*: &nbsp; 🎉 One paper was accepted by [TIFS 2026](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security).
 - *2026.05*: &nbsp; 🎉 One paper was accepted by [ICML 2026](https://icml.cc/).
 - *2026.04*: &nbsp; 🎉 I will serve as a workshop chair for [ICDM 2026](http://icdm2026.neu.edu.cn/main.htm).
 - *2026.04*: &nbsp; 🎉 One paper was accepted by [ICMR 2026](https://www.icmr2026.org/).
@@ -161,7 +162,7 @@ Authors with an <u>underline</u> are my supervised students, and * indicates the
 
 # 📝 Journal Publications 
 
-- ``TIFS 2026`` [Automatic Red Teaming LLM-based Agents with Model Context Protocol Tools](https://arxiv.org/abs/2509.21011), Ping He, Changjiang Li, Binbin Zhao, **Tianyu Du***, Shouling Ji, **IEEE Transactions on Information Forensics & Security, 2025**. [CCF A]
+- ``TIFS 2026`` [Automatic Red Teaming LLM-based Agents with Model Context Protocol Tools](https://arxiv.org/abs/2509.21011), Ping He, Changjiang Li, Binbin Zhao, **Tianyu Du***, Shouling Ji, **IEEE Transactions on Information Forensics & Security, 2026**. [CCF A]
 - ``TIFS 2025`` [G^2uardFL: Safeguarding Federated Learning against Backdoor Attacks via Attributed Client Graph Clustering](https://arxiv.org/abs/2306.04984), Hao Yu, Chuan Ma, Meng Liu, **Tianyu Du**, Ming Ding, Tao Xiang, Shouling Ji, Xinwang Liu, **IEEE Transactions on Information Forensics & Security, 2025**. [CCF A]
 - [DetectSec: Evaluating the Robustness of Object Detection Models to Adversarial Attacks](https://onlinelibrary.wiley.com/doi/pdf/10.1002/int.22851), **Tianyu Du**, Shouling Ji, Bo Wang, Sirui He, Jinfeng Li, Bo Li, Tao Wei, Yunhan Jia, Raheem Beyah, and Ting Wang, **International Journal of Intelligent Systems, 2022**. [IF=8.993]
 - ``TDSC 2022`` [Your labels are selling you out: Relation leaks in vertical federated learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9899694), Pengyu Qiu, Xuhong Zhang, Shouling Ji, **Tianyu Du**, Yuwen Pu, Jun Zhou, Ting Wang, **IEEE Transactions on Dependable and Secure Computing, 2022**. [CCF A]
