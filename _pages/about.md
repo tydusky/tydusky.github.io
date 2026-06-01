@@ -28,6 +28,7 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 
 
 # 🔥 News
+- *2026.05*: &nbsp; 🎉 One paper was accepted by [CCS 2026](https://www.sigsac.org/ccs/CCS2026/).
 - *2026.05*: &nbsp; 🎉 Two papers was accepted by [KDD 2026](https://kdd2026.kdd.org/).
 - *2026.05*: &nbsp; 🎉 One paper was accepted by [TIFS 2026](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security).
 - *2026.05*: &nbsp; 🎉 One paper was accepted by [ICML 2026](https://icml.cc/).
@@ -106,6 +107,7 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 
 Authors with an <u>underline</u> are my supervised students, and * indicates the <span style="color:red">corresponding author</span>.
 
+- ``CCS 2026`` [Customization under Fire: Plugin Poisoning in Text-to-Image Ecosystem](), Jiahao Che, Xing He, Yong Yang, Xinfeng Li, Chunyi Zhou, Junhao Li, Zhe Ma, Tianyu Du, Shouling Ji, **CCS 2026**. [CCF A]
 - ``KDD 2026`` [The Boy Who Cried Wolf: Adversarial Misclassification of Safe Inputs as Unsafe in Multimodal Guardrails](), <u>Shuo Shi</u>, <u>Rui Yin</u>, <u>Naen Xu</u>, Jiahao Chen, Chunyi Zhou, **Tianyu Du***, Zhihui Fu, Jun Wang, Zhaoxiang Wang, Shouling Ji, **KDD 2026**. [CCF A]
 - ``KDD 2026`` [LoRAShield: Data-Free Editing Alignment for Secure Personalized LoRA Sharing](), Jiahao Chen, Junhao Li, Yiming Wang, Yong Yang, Yi Jiang, Chunyi Zhou, Qingming Li, **Tianyu Du**, Shouling Ji, **KDD 2026**. [CCF A]
 - ``ICML 2026`` [Leveraging Machine Unlearning for Cost-Efficient Preference Alignment](), XiaoHua Feng, Yuyuan Li, HuWei Ji, Li Zhang, Jiaming Zhang, **Tianyu Du**, Chaochao Chen, **ICML 2026**. [CCF A]
