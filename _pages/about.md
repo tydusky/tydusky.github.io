@@ -28,6 +28,7 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 
 
 # 🔥 News
+- *2026.06*: &nbsp; 🎉 One paper was selected for **ORAL** presentation at KDD’26!
 - *2026.06*: &nbsp; 🎉 One paper was accepted by [CCS 2026](https://www.sigsac.org/ccs/CCS2026/).
 - *2026.05*: &nbsp; 🎉 One paper was accepted by [CCS 2026](https://www.sigsac.org/ccs/CCS2026/).
 - *2026.05*: &nbsp; 🎉 Two papers was accepted by [KDD 2026](https://kdd2026.kdd.org/).
@@ -110,7 +111,7 @@ Authors with an <u>underline</u> are my supervised students, and * indicates the
 
 - ``CCS 2026`` [Understanding and Mitigating Prompt Leaking Attacks in Real-World LLM-Based Applications](), Yong Yang, Chong Fu, Tong Zhang, Rui Zeng, Qingming Li, **Tianyu Du**, Zonghui Wang, Shouling Ji, Wenzhi Chen, **CCS 2026**. [CCF A]
 - ``CCS 2026`` [Customization under Fire: Plugin Poisoning in Text-to-Image Ecosystem](), Jiahao Chen, Xing He, Yong Yang, Xinfeng Li, Chunyi Zhou, Junhao Li, Zhe Ma, **Tianyu Du**, Shouling Ji, **CCS 2026**. [CCF A]
-- ``KDD 2026`` [The Boy Who Cried Wolf: Adversarial Misclassification of Safe Inputs as Unsafe in Multimodal Guardrails](), <u>Shuo Shi</u>, <u>Rui Yin</u>, <u>Naen Xu</u>, Jiahao Chen, Chunyi Zhou, **Tianyu Du***, Zhihui Fu, Jun Wang, Zhaoxiang Wang, Shouling Ji, **KDD 2026**. [CCF A]
+- ``KDD 2026`` [The Boy Who Cried Wolf: Adversarial Misclassification of Safe Inputs as Unsafe in Multimodal Guardrails](), <u>Shuo Shi</u>, <u>Rui Yin</u>, <u>Naen Xu</u>, Jiahao Chen, Chunyi Zhou, **Tianyu Du***, Zhihui Fu, Jun Wang, Zhaoxiang Wang, Shouling Ji, **KDD <span style="color:red">(Oral)</span> 2026**. [CCF A]
 - ``KDD 2026`` [LoRAShield: Data-Free Editing Alignment for Secure Personalized LoRA Sharing](), Jiahao Chen, Junhao Li, Yiming Wang, Yong Yang, Yi Jiang, Chunyi Zhou, Qingming Li, **Tianyu Du**, Shouling Ji, **KDD 2026**. [CCF A]
 - ``ICML 2026`` [Leveraging Machine Unlearning for Cost-Efficient Preference Alignment](), XiaoHua Feng, Yuyuan Li, HuWei Ji, Li Zhang, Jiaming Zhang, **Tianyu Du**, Chaochao Chen, **ICML 2026**. [CCF A]
 - ``ICMR 2026`` [Content-Adaptive Implicit Neural Representations for Resolution-Agnostic Remote Sensing Watermarking](), <u>Minxi Li</u>,
