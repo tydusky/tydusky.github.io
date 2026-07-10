@@ -33,6 +33,7 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 - *2026.05*: &nbsp; 🎉 One paper was accepted by [CCS 2026](https://www.sigsac.org/ccs/CCS2026/).
 - *2026.05*: &nbsp; 🎉 Two papers was accepted by [KDD 2026](https://kdd2026.kdd.org/).
 - *2026.05*: &nbsp; 🎉 One paper was accepted by [TIFS 2026](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security).
+- *2026.05*: &nbsp; 🎉 Recognized as a Gold Reviewer for ICML 2026.
 - *2026.05*: &nbsp; 🎉 One paper was accepted by [ICML 2026](https://icml.cc/).
 - *2026.04*: &nbsp; 🎉 I will serve as a workshop chair for [ICDM 2026](http://icdm2026.neu.edu.cn/main.htm).
 - *2026.04*: &nbsp; 🎉 One paper was accepted by [ICMR 2026](https://www.icmr2026.org/).
