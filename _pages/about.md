@@ -28,7 +28,7 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 
 
 # 🔥 News
-- *2026.08*: &nbsp; 🎉 Four papers were accepted by [EMNLP 206](https://2026.emnlp.org/).
+- *2026.08*: &nbsp; 🎉 Four papers were accepted by [EMNLP 2026](https://2026.emnlp.org/).
 - *2026.07*: &nbsp; 🎉 I was invited to serve as a Senior Program Committee member for AAAI 2027.
 - *2026.07*: &nbsp; 🎉 One paper was accepted by [VIS 2026](https://ieeevis.org).
 - *2026.06*: &nbsp; 🎉 One paper was selected for **ORAL** presentation at KDD’26!
