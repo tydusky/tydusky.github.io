@@ -28,6 +28,7 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 
 
 # 🔥 News
+- *2026.09*: &nbsp; 🎉 Two papers were accepted by [NeurIPS 2026](https://nips.cc/).
 - *2026.09*: &nbsp; 🎉 One paper was accepted by [NDSS 2027](https://www.ndss-symposium.org/ndss2027/).
 - *2026.09*: &nbsp; 🎉 I was invited to serve as an Area Chair for ICLR 2027.
 - *2026.08*: &nbsp; 🎉 Four papers were accepted by [EMNLP 2026](https://2026.emnlp.org/).
@@ -115,10 +116,12 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 
 Authors with an <u>underline</u> are my supervised students, and * indicates the <span style="color:red">corresponding author</span>.
 
+- ``NeurIPS 2026`` [StateTree: Enhancing Long-term Dialogue Reasoning via Reinforcement Learning](), Naen Xu, Wanqing Cui, Yibo Hu, Shixin Hong, Hengyu An, Meiguang Jin, Junfeng Ma, **Tianyu Du***, **NeurIPS 2026**. [CCF A]
+- ``NeurIPS 2026`` [Revisiting Gradient Ascent: Machine Unlearning from a Geometric Perspective for Source-Free Scenarios](), Yufeng Cao, Naen Xu, Xuyang Teng, **Tianyu Du**, Qiang Zhao, **NeurIPS 2026**. [CCF A]
 - ``NDSS 2027`` [Evader: Bypassing the AI-Generated Image Forensic Detection via Adversarial Conditional Diffusion](), Baiqi Wu, Chunyi Zhou, Qingming Li, Zhi Chen, **Tianyu Du**, Yingcai Wu, Shouling Ji, **NDSS 2027**.
 - ``EMNLP 2026`` [Beyond the Payload: How User Invocation Shapes Coding Agent Vulnerability to Repository Poisoning](), Fukang Zhu, Binbin Zhao, Ruixiao Lin, Ping He, **Tianyu Du**, Shouling Ji, **EMNLP Main 2026**.
-- ``EMNLP 2026`` [Leveraging Teacher-Forcing Token-Level Anomaly Signals for Heterogeneous Backdoor Filtering in LLMs](), <u>Tianxu Han</u>, Jiangming Wang, Chunyi Zhou, Binbin Zhao, **Tianyu Du**, **EMNLP Findings 2026**.
-- ``EMNLP 2026`` [ARC: An Audit-Guided Risk Calibration Attack for Jailbreaking Multimodal Large Language Models](), Wenluo Hu, Chunyi Zhou, **Tianyu Du**, Shouling Ji, **EMNLP Findings 2026**.
+- ``EMNLP 2026`` [Leveraging Teacher-Forcing Token-Level Anomaly Signals for Heterogeneous Backdoor Filtering in LLMs](), <u>Tianxu Han</u>, Jiangming Wang, Chunyi Zhou, Binbin Zhao, **Tianyu Du***, **EMNLP Findings 2026**.
+- ``EMNLP 2026`` [ARC: An Audit-Guided Risk Calibration Attack for Jailbreaking Multimodal Large Language Models](), Wenluo Hu, Chunyi Zhou, **Tianyu Du***, Shouling Ji, **EMNLP Findings 2026**.
 - ``EMNLP 2026`` [Beyond Over-Refusal: Defending Indirect Prompt Injection via Latent Instruction Manifolds](), Jiahao Chen, <u>Rui Yin</u>, Xinfeng Li, Qianli Ma, **Tianyu Du**, Zhihui Fu, Jun Wang, Zhaoxiang Wang, Shouling Ji, **EMNLP Findings 2026**.
 - ``VIS 2026`` [NeuroBreak: Unveil Internal Jailbreak Mechanisms in Large Language Models](), Chuhan Zhang, Ye Zhang, Bowen Shi, Yuyou Gan, **Tianyu Du**, Shouling Ji, Dazhen Deng, Yingcai Wu, **VIS 2026**. [CCF A]
 - ``CCS 2026`` [Understanding and Mitigating Prompt Leaking Attacks in Real-World LLM-Based Applications](), Yong Yang, Chong Fu, Tong Zhang, Rui Zeng, Qingming Li, **Tianyu Du**, Zonghui Wang, Shouling Ji, Wenzhi Chen, **CCS 2026**. [CCF A]
