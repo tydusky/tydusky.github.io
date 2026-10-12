@@ -28,6 +28,7 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 
 
 # 🔥 News
+- *2026.10*: &nbsp; 🎉 Three students received the National Scholarship. Congrats to Naen, Shuo, and Hengyu!
 - *2026.09*: &nbsp; 🎉 Two papers were accepted by [NeurIPS 2026](https://nips.cc/).
 - *2026.09*: &nbsp; 🎉 One paper was accepted by [NDSS 2027](https://www.ndss-symposium.org/ndss2027/).
 - *2026.09*: &nbsp; 🎉 I was invited to serve as an Area Chair for ICLR 2027.
