@@ -28,6 +28,7 @@ My research focuses on trustworthy machine learning, emphasizing robustness, pri
 
 
 # 🔥 News
+- *2026.11* 
 - *2026.10*: &nbsp; 🎉 Three students received the National Scholarship. Congrats to Naen, Shuo, and Hengyu!
 - *2026.09*: &nbsp; 🎉 Two papers were accepted by [NeurIPS 2026](https://nips.cc/).
 - *2026.09*: &nbsp; 🎉 One paper was accepted by [NDSS 2027](https://www.ndss-symposium.org/ndss2027/).
@@ -117,6 +118,7 @@ Jinfeng Li, Shouling Ji, **Tianyu Du**, Bo Li, and Ting Wang
 
 Authors with an <u>underline</u> are my supervised students, and * indicates the <span style="color:red">corresponding author</span>.
 
+- ``KDD 2027`` [AgentDET: Benchmarking Agent Security and Defenses against Indirect Prompt Injection on Delayed-Data Tasks](), <u>Yuqi Chen</u>, Hao Liu, <u>Hengyu An</u>, Chunyi Zhou, Xijun Luo, Nan Yi, Kai Guo, **Tianyu Du***, **KDD 2027**. [CCF A]
 - ``NeurIPS 2026`` [StateTree: Enhancing Long-term Dialogue Reasoning via Reinforcement Learning](), <u>Naen Xu</u>, Wanqing Cui, Yibo Hu, Shixin Hong, <u>Hengyu An</u>, Meiguang Jin, Junfeng Ma, **Tianyu Du***, **NeurIPS 2026**. [CCF A]
 - ``NeurIPS 2026`` [Revisiting Gradient Ascent: Machine Unlearning from a Geometric Perspective for Source-Free Scenarios](), Yufeng Cao, <u>Naen Xu</u>, Xuyang Teng, **Tianyu Du**, Qiang Zhao, **NeurIPS 2026**. [CCF A]
 - ``NDSS 2027`` [Evader: Bypassing the AI-Generated Image Forensic Detection via Adversarial Conditional Diffusion](), Baiqi Wu, Chunyi Zhou, Qingming Li, Zhi Chen, **Tianyu Du**, Yingcai Wu, Shouling Ji, **NDSS 2027**.
